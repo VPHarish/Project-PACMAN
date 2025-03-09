@@ -1,0 +1,54 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.fsck.k9.core" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="21"
+7-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/src/main/AndroidManifest.xml
+8        android:targetSdkVersion="31" />
+8-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/src/main/AndroidManifest.xml
+9
+10    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+10-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/src/main/AndroidManifest.xml:6:5-78
+10-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/src/main/AndroidManifest.xml:6:22-76
+11    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS" />
+11-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/src/main/AndroidManifest.xml:7:5-77
+11-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/src/main/AndroidManifest.xml:7:22-74
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/src/main/AndroidManifest.xml:8:5-81
+12-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/src/main/AndroidManifest.xml:8:22-78
+13    <!-- because in Android 11 managing files has been changed -->
+14    <uses-permission
+14-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/src/main/AndroidManifest.xml:10:5-12:38
+15        android:name="android.permission.MANAGE_EXTERNAL_STORAGE"
+15-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/src/main/AndroidManifest.xml:11:9-66
+16        android:minSdkVersion="30" />
+16-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/src/main/AndroidManifest.xml:12:9-35
+17
+18    <application>
+18-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/src/main/AndroidManifest.xml:14:5-30:19
+19        <provider
+19-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/src/main/AndroidManifest.xml:16:9-28:20
+20            android:name="androidx.startup.InitializationProvider"
+20-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/src/main/AndroidManifest.xml:17:13-67
+21            android:authorities="${applicationId}.androidx-startup"
+21-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/src/main/AndroidManifest.xml:18:13-68
+22            android:exported="false"
+22-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/src/main/AndroidManifest.xml:19:13-37
+23            tools:node="merge" >
+23-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/src/main/AndroidManifest.xml:20:13-31
+24
+25            <!-- We initialize WorkManager manually -->
+26            <meta-data
+26-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/src/main/AndroidManifest.xml:23:13-26:39
+27                android:name="androidx.work.WorkManagerInitializer"
+27-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/src/main/AndroidManifest.xml:24:17-68
+28                android:value="androidx.startup"
+28-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/src/main/AndroidManifest.xml:25:17-49
+29                tools:node="remove" />
+29-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/src/main/AndroidManifest.xml:26:17-36
+30        </provider>
+31    </application>
+32
+33</manifest>

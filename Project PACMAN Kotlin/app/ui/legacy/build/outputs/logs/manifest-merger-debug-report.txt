@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:2:1-53:12
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:2:1-53:12
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:5:22-63
+queries
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:7:5-47:15
+intent#action:name:android.intent.action.PICK+data:host:com.android.contacts+data:mimeType:*/*+data:scheme:content
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:8:9-17:18
+action#android.intent.action.PICK
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:11:13-65
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:11:21-62
+data
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:13:13-16:44
+	android:host
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:14:17-52
+	android:scheme
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:16:17-41
+	android:mimeType
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:15:17-39
+intent#action:name:android.intent.action.VIEW+data:mimeType:*/*+data:scheme:content
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:18:9-26:18
+action#android.intent.action.VIEW
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:21:21-62
+intent#action:name:org.openintents.openpgp.IOpenPgpService2
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:27:9-31:18
+action#org.openintents.openpgp.IOpenPgpService2
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:30:13-79
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:30:21-76
+intent#action:name:android.intent.action.VIEW+data:host:details+data:mimeType:*/*+data:scheme:market
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:32:9-41:18
+intent#action:name:org.openintents.openpgp.IOpenPgpService
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:42:9-46:18
+action#org.openintents.openpgp.IOpenPgpService
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:45:13-78
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:45:21-75
+application
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:49:5-51:61
+	android:supportsRtl
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:50:9-35
+	android:theme
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml:51:9-46
+uses-sdk
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/src/main/AndroidManifest.xml

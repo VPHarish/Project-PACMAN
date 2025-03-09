@@ -1,0 +1,22 @@
+apply plugin: 'java-library'
+
+if (rootProject.testCoverage) {
+    apply plugin: 'jacoco'
+}
+
+java {
+    sourceCompatibility = javaVersion
+    targetCompatibility = javaVersion
+}
+
+dependencies {
+    api project(":mail:common")
+
+    testImplementation project(":mail:testing")
+    testImplementation "junit:junit:${versions.junit}"
+    testImplementation "com.google.truth:truth:${versions.truth}"
+    testImplementation "org.mockito:mockito-core:${versions.mockito}"
+    testImplementation "com.squareup.okio:okio:${versions.okio}"
+    testImplementation "com.jcraft:jzlib:1.0.7"
+    testImplementation "commons-io:commons-io:${versions.commonsIo}"
+}

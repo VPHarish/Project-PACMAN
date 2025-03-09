@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.fsck.k9.debug",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 31000,
+      "versionName": "6.101-SNAPSHOT",
+      "outputFile": "k9mail-debug.apk"
+    }
+  ],
+  "elementType": "File"
+}

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/harish/.gradle/caches/transforms-3/e776a1c2b39899d8086d04506e9d2247/transformed/appcompat-1.4.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

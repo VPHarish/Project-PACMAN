@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/mipmap-hdpi_icon.png.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/debug/res/mipmap-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/drawable-xxhdpi_message_list_widget_preview.png.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/drawable-xxhdpi/message_list_widget_preview.png"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/menu_unread_widget_option.xml.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/menu/unread_widget_option.xml"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/layout_unread_widget_layout.xml.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/layout/unread_widget_layout.xml"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/drawable-xhdpi_ic_unread_widget_selected.png.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/drawable-xhdpi/ic_unread_widget_selected.png"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/mipmap-xxhdpi_icon.png.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/debug/res/mipmap-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/drawable-hdpi_ic_unread_widget.png.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/drawable-hdpi/ic_unread_widget.png"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/mipmap-mdpi_icon.png.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/debug/res/mipmap-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/xml_unread_widget_info.xml.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/xml/unread_widget_info.xml"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/drawable-mdpi_ic_unread_widget.png.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/drawable-mdpi/ic_unread_widget.png"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/xml_message_list_widget_info.xml.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/xml/message_list_widget_info.xml"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/drawable_unread_widget_icon.xml.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/drawable/unread_widget_icon.xml"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/drawable_unread_widget_background.xml.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/drawable/unread_widget_background.xml"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/mipmap-xxxhdpi_icon.png.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/debug/res/mipmap-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/xml_unread_widget_configuration.xml.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/xml/unread_widget_configuration.xml"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/mipmap-xhdpi_icon.png.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/debug/res/mipmap-xhdpi/icon.png"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/drawable-mdpi_ic_unread_widget_selected.png.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/drawable-mdpi/ic_unread_widget_selected.png"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/layout_message_list_widget_layout.xml.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/layout/message_list_widget_layout.xml"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/drawable-xhdpi_ic_unread_widget.png.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/drawable-xhdpi/ic_unread_widget.png"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/layout_message_list_widget_list_item.xml.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/layout/message_list_widget_list_item.xml"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/layout_activity_unread_widget_configuration.xml.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/layout/activity_unread_widget_configuration.xml"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/drawable_unread_count_background.xml.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/drawable/unread_count_background.xml"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/xml_network_security_config.xml.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/layout_message_list_widget_loading.xml.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/layout/message_list_widget_loading.xml"
+    },
+    {
+        "merged": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/merged_res/debug/drawable-hdpi_ic_unread_widget_selected.png.flat",
+        "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/res/drawable-hdpi/ic_unread_widget_selected.png"
+    }
+]

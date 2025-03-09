@@ -1,0 +1,284 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.fsck.k9.autodiscovery.providersxml.test" >
+4
+5    <uses-sdk
+5-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/providersxml/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest8766859670215807937.xml:5:5-74
+6        android:minSdkVersion="21"
+6-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/providersxml/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest8766859670215807937.xml:5:15-41
+7        android:targetSdkVersion="31" />
+7-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/providersxml/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest8766859670215807937.xml:5:42-71
+8
+9    <instrumentation
+9-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/providersxml/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest8766859670215807937.xml:11:5-15:93
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/providersxml/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest8766859670215807937.xml:11:22-75
+11        android:functionalTest="false"
+11-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/providersxml/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest8766859670215807937.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/providersxml/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest8766859670215807937.xml:13:22-53
+13        android:label="Tests for com.fsck.k9.autodiscovery.providersxml.test"
+13-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/providersxml/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest8766859670215807937.xml:15:22-91
+14        android:targetPackage="com.fsck.k9.autodiscovery.providersxml.test" />
+14-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/providersxml/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest8766859670215807937.xml:12:22-89
+15
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-79
+16-->[:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-76
+17    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS" />
+17-->[:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-77
+17-->[:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-74
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- because in Android 11 managing files has been changed -->
+18-->[:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-81
+18-->[:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:22-78
+19    <uses-permission
+19-->[:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:5-16:38
+20        android:name="android.permission.MANAGE_EXTERNAL_STORAGE"
+20-->[:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-66
+21        android:minSdkVersion="30" />
+21-->[:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-35
+22    <uses-permission android:name="android.permission.WAKE_LOCK" />
+22-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:25:5-68
+22-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:25:22-65
+23    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+23-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:27:5-81
+23-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:27:22-78
+24    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+24-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:28:5-77
+24-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:28:22-74
+25
+26    <application
+26-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/providersxml/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest8766859670215807937.xml:7:5-9:19
+27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+27-->[androidx.core:core:1.7.0] /home/harish/.gradle/caches/transforms-3/994e0162bb77094eef724a63125e9d31/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+28        android:debuggable="true" >
+29        <uses-library android:name="android.test.runner" />
+29-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/providersxml/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest8766859670215807937.xml:8:9-60
+29-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/providersxml/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest8766859670215807937.xml:8:23-57
+30
+31        <provider
+31-->[:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:9-30:20
+32            android:name="androidx.startup.InitializationProvider"
+32-->[:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-67
+33            android:authorities="com.fsck.k9.autodiscovery.providersxml.test.androidx-startup"
+33-->[:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-68
+34            android:exported="false" >
+34-->[:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-37
+35            <meta-data
+35-->[androidx.emoji2:emoji2:1.0.0] /home/harish/.gradle/caches/transforms-3/f2aa64d7e065f2b938fd9c0d6b35f93d/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+36                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+36-->[androidx.emoji2:emoji2:1.0.0] /home/harish/.gradle/caches/transforms-3/f2aa64d7e065f2b938fd9c0d6b35f93d/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+37                android:value="androidx.startup" />
+37-->[androidx.emoji2:emoji2:1.0.0] /home/harish/.gradle/caches/transforms-3/f2aa64d7e065f2b938fd9c0d6b35f93d/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+38            <meta-data
+38-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/harish/.gradle/caches/transforms-3/1b5befeb1bfbba5589784b9b43dee023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+39                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+39-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/harish/.gradle/caches/transforms-3/1b5befeb1bfbba5589784b9b43dee023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+40                android:value="androidx.startup" />
+40-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/harish/.gradle/caches/transforms-3/1b5befeb1bfbba5589784b9b43dee023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+41        </provider>
+42
+43        <uses-library
+43-->[androidx.window:window:1.0.0] /home/harish/.gradle/caches/transforms-3/a54272ef705dbde942f5ea1f0777d8ff/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+44            android:name="androidx.window.extensions"
+44-->[androidx.window:window:1.0.0] /home/harish/.gradle/caches/transforms-3/a54272ef705dbde942f5ea1f0777d8ff/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+45            android:required="false" />
+45-->[androidx.window:window:1.0.0] /home/harish/.gradle/caches/transforms-3/a54272ef705dbde942f5ea1f0777d8ff/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+46        <uses-library
+46-->[androidx.window:window:1.0.0] /home/harish/.gradle/caches/transforms-3/a54272ef705dbde942f5ea1f0777d8ff/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+47            android:name="androidx.window.sidecar"
+47-->[androidx.window:window:1.0.0] /home/harish/.gradle/caches/transforms-3/a54272ef705dbde942f5ea1f0777d8ff/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+48            android:required="false" />
+48-->[androidx.window:window:1.0.0] /home/harish/.gradle/caches/transforms-3/a54272ef705dbde942f5ea1f0777d8ff/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+49
+50        <service
+50-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:41:9-46:35
+51            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+51-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:42:13-88
+52            android:directBootAware="false"
+52-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:43:13-44
+53            android:enabled="@bool/enable_system_alarm_service_default"
+53-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:44:13-72
+54            android:exported="false" />
+54-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:45:13-37
+55        <service
+55-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:47:9-53:35
+56            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+56-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:48:13-84
+57            android:directBootAware="false"
+57-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:49:13-44
+58            android:enabled="@bool/enable_system_job_service_default"
+58-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:50:13-70
+59            android:exported="true"
+59-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:51:13-36
+60            android:permission="android.permission.BIND_JOB_SERVICE" />
+60-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:52:13-69
+61        <service
+61-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:54:9-59:35
+62            android:name="androidx.work.impl.foreground.SystemForegroundService"
+62-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:55:13-81
+63            android:directBootAware="false"
+63-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:56:13-44
+64            android:enabled="@bool/enable_system_foreground_service_default"
+64-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:57:13-77
+65            android:exported="false" />
+65-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:58:13-37
+66
+67        <receiver
+67-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:61:9-66:35
+68            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+68-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:62:13-88
+69            android:directBootAware="false"
+69-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:63:13-44
+70            android:enabled="true"
+70-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:64:13-35
+71            android:exported="false" />
+71-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:65:13-37
+72        <receiver
+72-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:67:9-77:20
+73            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+73-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:68:13-106
+74            android:directBootAware="false"
+74-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:69:13-44
+75            android:enabled="false"
+75-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:70:13-36
+76            android:exported="false" >
+76-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:71:13-37
+77            <intent-filter>
+77-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:73:13-76:29
+78                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+78-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:74:17-87
+78-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:74:25-84
+79                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+79-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:75:17-90
+79-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:75:25-87
+80            </intent-filter>
+81        </receiver>
+82        <receiver
+82-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:78:9-88:20
+83            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+83-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:79:13-104
+84            android:directBootAware="false"
+84-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:80:13-44
+85            android:enabled="false"
+85-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:81:13-36
+86            android:exported="false" >
+86-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:82:13-37
+87            <intent-filter>
+87-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:84:13-87:29
+88                <action android:name="android.intent.action.BATTERY_OKAY" />
+88-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:85:17-77
+88-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:85:25-74
+89                <action android:name="android.intent.action.BATTERY_LOW" />
+89-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:86:17-76
+89-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:86:25-73
+90            </intent-filter>
+91        </receiver>
+92        <receiver
+92-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:89:9-99:20
+93            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+93-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:90:13-104
+94            android:directBootAware="false"
+94-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:91:13-44
+95            android:enabled="false"
+95-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:92:13-36
+96            android:exported="false" >
+96-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:93:13-37
+97            <intent-filter>
+97-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:95:13-98:29
+98                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+98-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:96:17-83
+98-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:96:25-80
+99                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+99-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:97:17-82
+99-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:97:25-79
+100            </intent-filter>
+101        </receiver>
+102        <receiver
+102-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:100:9-109:20
+103            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+103-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:101:13-103
+104            android:directBootAware="false"
+104-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:102:13-44
+105            android:enabled="false"
+105-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:103:13-36
+106            android:exported="false" >
+106-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:104:13-37
+107            <intent-filter>
+107-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:106:13-108:29
+108                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+108-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:107:17-79
+108-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:107:25-76
+109            </intent-filter>
+110        </receiver>
+111        <receiver
+111-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:110:9-121:20
+112            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+112-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:111:13-88
+113            android:directBootAware="false"
+113-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:112:13-44
+114            android:enabled="false"
+114-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:113:13-36
+115            android:exported="false" >
+115-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:114:13-37
+116            <intent-filter>
+116-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:116:13-120:29
+117                <action android:name="android.intent.action.BOOT_COMPLETED" />
+117-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:117:17-79
+117-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:117:25-76
+118                <action android:name="android.intent.action.TIME_SET" />
+118-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:118:17-73
+118-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:118:25-70
+119                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+119-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:119:17-81
+119-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:119:25-78
+120            </intent-filter>
+121        </receiver>
+122        <receiver
+122-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:122:9-131:20
+123            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+123-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:123:13-99
+124            android:directBootAware="false"
+124-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:124:13-44
+125            android:enabled="@bool/enable_system_alarm_service_default"
+125-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:125:13-72
+126            android:exported="false" >
+126-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:126:13-37
+127            <intent-filter>
+127-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:128:13-130:29
+128                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+128-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:129:17-98
+128-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:129:25-95
+129            </intent-filter>
+130        </receiver>
+131        <receiver
+131-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:132:9-142:20
+132            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
+132-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:133:13-78
+133            android:directBootAware="false"
+133-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:134:13-44
+134            android:enabled="true"
+134-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:135:13-35
+135            android:exported="true"
+135-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:136:13-36
+136            android:permission="android.permission.DUMP" >
+136-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:137:13-57
+137            <intent-filter>
+137-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:139:13-141:29
+138                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
+138-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:140:17-88
+138-->[androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:140:25-85
+139            </intent-filter>
+140        </receiver>
+141
+142        <service
+142-->[androidx.room:room-runtime:2.2.5] /home/harish/.gradle/caches/transforms-3/e33897c096d15affc6a95a1d1a3f6be2/transformed/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+143            android:name="androidx.room.MultiInstanceInvalidationService"
+143-->[androidx.room:room-runtime:2.2.5] /home/harish/.gradle/caches/transforms-3/e33897c096d15affc6a95a1d1a3f6be2/transformed/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+144            android:directBootAware="true"
+144-->[androidx.room:room-runtime:2.2.5] /home/harish/.gradle/caches/transforms-3/e33897c096d15affc6a95a1d1a3f6be2/transformed/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+145            android:exported="false" />
+145-->[androidx.room:room-runtime:2.2.5] /home/harish/.gradle/caches/transforms-3/e33897c096d15affc6a95a1d1a3f6be2/transformed/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+146    </application>
+147
+148</manifest>

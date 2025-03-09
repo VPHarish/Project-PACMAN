@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/storage/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/home/harish/.gradle/caches/transforms-3/e776a1c2b39899d8086d04506e9d2247/transformed/appcompat-1.4.1/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        }
+    ]
+}

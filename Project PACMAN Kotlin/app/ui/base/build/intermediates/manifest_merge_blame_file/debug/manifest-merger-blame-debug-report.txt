@@ -1,0 +1,30 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.fsck.k9.ui.base" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/base/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="31" />
+7-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/base/src/main/AndroidManifest.xml
+8
+9    <application>
+9-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/base/src/main/AndroidManifest.xml:5:5-16:19
+10        <receiver
+10-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/base/src/main/AndroidManifest.xml:7:9-14:20
+11            android:name="com.fsck.k9.ui.base.locale.LocaleBroadcastReceiver"
+11-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/base/src/main/AndroidManifest.xml:8:13-59
+12            android:enabled="false"
+12-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/base/src/main/AndroidManifest.xml:10:13-36
+13            android:exported="false" >
+13-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/base/src/main/AndroidManifest.xml:9:13-37
+14            <intent-filter>
+14-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/base/src/main/AndroidManifest.xml:11:13-13:29
+15                <action android:name="android.intent.action.LOCALE_CHANGED" />
+15-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/base/src/main/AndroidManifest.xml:12:17-79
+15-->/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/base/src/main/AndroidManifest.xml:12:25-76
+16            </intent-filter>
+17        </receiver>
+18    </application>
+19
+20</manifest>

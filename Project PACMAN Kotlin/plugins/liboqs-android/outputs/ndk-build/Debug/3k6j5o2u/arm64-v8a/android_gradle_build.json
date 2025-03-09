@@ -1,0 +1,60 @@
+{
+  "buildFiles": [
+    "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/plugins/liboqs-android/jni/Android.mk"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/harish/Android/Sdk/ndk/21.4.7075529/ndk-build",
+      "NDK_PROJECT_PATH\u003dnull",
+      "APP_BUILD_SCRIPT\u003d/home/harish/Downloads/Post-Quantum-K-9-Mail-main/plugins/liboqs-android/jni/Android.mk",
+      "APP_ABI\u003darm64-v8a",
+      "NDK_ALL_ABIS\u003darm64-v8a",
+      "NDK_DEBUG\u003d1",
+      "APP_PLATFORM\u003dandroid-21",
+      "NDK_OUT\u003d/home/harish/Downloads/Post-Quantum-K-9-Mail-main/plugins/liboqs-android/build/intermediates/cxx/Debug/3k6j5o2u/obj",
+      "NDK_LIBS_OUT\u003d/home/harish/Downloads/Post-Quantum-K-9-Mail-main/plugins/liboqs-android/build/intermediates/cxx/Debug/3k6j5o2u/lib",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/harish/Android/Sdk/ndk/21.4.7075529/ndk-build",
+    "NDK_PROJECT_PATH\u003dnull",
+    "APP_BUILD_SCRIPT\u003d/home/harish/Downloads/Post-Quantum-K-9-Mail-main/plugins/liboqs-android/jni/Android.mk",
+    "APP_ABI\u003darm64-v8a",
+    "NDK_ALL_ABIS\u003darm64-v8a",
+    "NDK_DEBUG\u003d1",
+    "APP_PLATFORM\u003dandroid-21",
+    "NDK_OUT\u003d/home/harish/Downloads/Post-Quantum-K-9-Mail-main/plugins/liboqs-android/build/intermediates/cxx/Debug/3k6j5o2u/obj",
+    "NDK_LIBS_OUT\u003d/home/harish/Downloads/Post-Quantum-K-9-Mail-main/plugins/liboqs-android/build/intermediates/cxx/Debug/3k6j5o2u/lib",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "oqs-jni-debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "/home/harish/Android/Sdk/ndk/21.4.7075529/ndk-build",
+        "NDK_PROJECT_PATH\u003dnull",
+        "APP_BUILD_SCRIPT\u003d/home/harish/Downloads/Post-Quantum-K-9-Mail-main/plugins/liboqs-android/jni/Android.mk",
+        "APP_ABI\u003darm64-v8a",
+        "NDK_ALL_ABIS\u003darm64-v8a",
+        "NDK_DEBUG\u003d1",
+        "APP_PLATFORM\u003dandroid-21",
+        "NDK_OUT\u003d/home/harish/Downloads/Post-Quantum-K-9-Mail-main/plugins/liboqs-android/build/intermediates/cxx/Debug/3k6j5o2u/obj",
+        "NDK_LIBS_OUT\u003d/home/harish/Downloads/Post-Quantum-K-9-Mail-main/plugins/liboqs-android/build/intermediates/cxx/Debug/3k6j5o2u/lib",
+        "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/plugins/liboqs-android/build/intermediates/cxx/Debug/3k6j5o2u/obj/local/arm64-v8a/liboqs-jni.so"
+      ],
+      "toolchain": "toolchain-arm64-v8a",
+      "abi": "arm64-v8a",
+      "artifactName": "oqs-jni",
+      "output": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/plugins/liboqs-android/build/intermediates/cxx/Debug/3k6j5o2u/obj/local/arm64-v8a/liboqs-jni.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-arm64-v8a": {
+      "cCompilerExecutable": "/home/harish/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

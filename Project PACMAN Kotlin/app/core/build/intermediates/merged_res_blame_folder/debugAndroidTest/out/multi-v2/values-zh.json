@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/plugins/openpgp-api-lib/openpgp-api/build/intermediates/packaged_res/debug/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,111",
+                        "endColumns": "55,58",
+                        "endOffsets": "106,165"
+                    }
+                }
+            ]
+        }
+    ]
+}

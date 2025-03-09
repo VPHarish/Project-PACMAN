@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_settings_color_label">Account colour</string>
+    <string name="account_settings_color_summary">The accent colour of this account used in folder and account list</string>
+    <string name="account_settings_notification_light_account_color">Account colour</string>
+    <string name="account_setup_check_settings_title"/>
+    <string name="account_setup_failed_dlg_invalid_certificate_title">Unrecognised Certificate</string>
+    <string name="app_name">Post Quantum K-9 Mail</string>
+    <string name="error_crypto_provider_ui_required">Failed to initialise end-to-end encryption, please check your settings</string>
+    <string name="global_settings_colorize_missing_contact_pictures_label">Colourise contact pictures</string>
+    <string name="global_settings_colorize_missing_contact_pictures_summary">Colourise missing contact pictures</string>
+    <string name="global_settings_registered_name_color_changed">Colourise names in your contact list</string>
+    <string name="global_settings_registered_name_color_label">Colourise contacts</string>
+    <string name="move_copy_cannot_copy_unsynced_message">Cannot copy or move a message that is not synchronised with the server</string>
+    <string name="shortcuts_title">K-9 Accounts</string>
+    <string name="unread_widget_label">K-9 Unread</string>
+</resources>

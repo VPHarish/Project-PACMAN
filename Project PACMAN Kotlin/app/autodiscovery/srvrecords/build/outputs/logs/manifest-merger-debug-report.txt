@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/srvrecords/src/main/AndroidManifest.xml:2:1-60
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/srvrecords/src/main/AndroidManifest.xml:2:1-60
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/srvrecords/src/main/AndroidManifest.xml:2:1-60
+	package
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/srvrecords/src/main/AndroidManifest.xml:2:11-57
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/srvrecords/src/main/AndroidManifest.xml
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/srvrecords/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/srvrecords/src/main/AndroidManifest.xml:2:1-60
+uses-sdk
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/srvrecords/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/srvrecords/src/main/AndroidManifest.xml
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/srvrecords/src/main/AndroidManifest.xml
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/srvrecords/src/main/AndroidManifest.xml
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/srvrecords/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/srvrecords/src/main/AndroidManifest.xml
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/srvrecords/src/main/AndroidManifest.xml
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/srvrecords/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/srvrecords/src/main/AndroidManifest.xml
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/srvrecords/src/main/AndroidManifest.xml
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/srvrecords/src/main/AndroidManifest.xml

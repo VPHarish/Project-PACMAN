@@ -1,0 +1,7 @@
+#Fri Feb 28 23:02:51 IST 2025
+base.0=/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.1=/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/6/classes.dex
+path.0=0/classes.dex
+path.1=6/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

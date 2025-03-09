@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/base/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "map": [
+                {
+                    "source": "/home/harish/.gradle/caches/transforms-3/b37a706728c48aa9ff360d935dba21cb/transformed/material-1.5.0/res/values-ldrtl-v17/values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,191",
+                        "endColumns": "135,140",
+                        "endOffsets": "186,327"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/autodiscovery" />
+            <option value="$PROJECT_DIR$/app/autodiscovery/api" />
+            <option value="$PROJECT_DIR$/app/autodiscovery/providersxml" />
+            <option value="$PROJECT_DIR$/app/autodiscovery/srvrecords" />
+            <option value="$PROJECT_DIR$/app/autodiscovery/thunderbird" />
+            <option value="$PROJECT_DIR$/app/core" />
+            <option value="$PROJECT_DIR$/app/crypto-openpgp" />
+            <option value="$PROJECT_DIR$/app/html-cleaner" />
+            <option value="$PROJECT_DIR$/app/k9mail" />
+            <option value="$PROJECT_DIR$/app/storage" />
+            <option value="$PROJECT_DIR$/app/testing" />
+            <option value="$PROJECT_DIR$/app/ui" />
+            <option value="$PROJECT_DIR$/app/ui/base" />
+            <option value="$PROJECT_DIR$/app/ui/legacy" />
+            <option value="$PROJECT_DIR$/app/ui/setup" />
+            <option value="$PROJECT_DIR$/backend" />
+            <option value="$PROJECT_DIR$/backend/api" />
+            <option value="$PROJECT_DIR$/backend/demo" />
+            <option value="$PROJECT_DIR$/backend/imap" />
+            <option value="$PROJECT_DIR$/backend/jmap" />
+            <option value="$PROJECT_DIR$/backend/pop3" />
+            <option value="$PROJECT_DIR$/backend/testing" />
+            <option value="$PROJECT_DIR$/backend/webdav" />
+            <option value="$PROJECT_DIR$/cli" />
+            <option value="$PROJECT_DIR$/cli/html-cleaner-cli" />
+            <option value="$PROJECT_DIR$/mail" />
+            <option value="$PROJECT_DIR$/mail/common" />
+            <option value="$PROJECT_DIR$/mail/protocols" />
+            <option value="$PROJECT_DIR$/mail/protocols/imap" />
+            <option value="$PROJECT_DIR$/mail/protocols/pop3" />
+            <option value="$PROJECT_DIR$/mail/protocols/smtp" />
+            <option value="$PROJECT_DIR$/mail/protocols/webdav" />
+            <option value="$PROJECT_DIR$/mail/testing" />
+            <option value="$PROJECT_DIR$/plugins" />
+            <option value="$PROJECT_DIR$/plugins/liboqs-android" />
+            <option value="$PROJECT_DIR$/plugins/openpgp-api-lib" />
+            <option value="$PROJECT_DIR$/plugins/openpgp-api-lib/openpgp-api" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/pop3/src/main/AndroidManifest.xml:2:1-48
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/pop3/src/main/AndroidManifest.xml:2:1-48
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/pop3/src/main/AndroidManifest.xml:2:1-48
+	package
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/pop3/src/main/AndroidManifest.xml:2:11-45
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/pop3/src/main/AndroidManifest.xml
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/pop3/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/pop3/src/main/AndroidManifest.xml:2:1-48
+uses-sdk
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/pop3/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/pop3/src/main/AndroidManifest.xml
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/pop3/src/main/AndroidManifest.xml
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/pop3/src/main/AndroidManifest.xml
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/pop3/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/pop3/src/main/AndroidManifest.xml
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/pop3/src/main/AndroidManifest.xml
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/pop3/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/pop3/src/main/AndroidManifest.xml
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/pop3/src/main/AndroidManifest.xml
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/pop3/src/main/AndroidManifest.xml

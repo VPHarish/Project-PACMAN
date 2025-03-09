@@ -1,0 +1,1456 @@
+-- Merging decision tree log ---
+activity#com.fsck.k9.ui.push.PushInfoActivity
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:283:9-294:20
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:287:13-52
+	android:excludeFromRecents
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:285:13-46
+	android:exported
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:286:13-37
+	android:taskAffinity
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:288:13-62
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:284:13-53
+provider#com.fsck.k9.provider.AttachmentProvider
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:360:9-368:20
+	android:grantUriPermissions
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:364:13-47
+	android:authorities
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:362:13-70
+	android:exported
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:363:13-37
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:361:13-56
+provider#com.fsck.k9.provider.RawMessageProvider
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:369:9-376:20
+	android:authorities
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:371:13-70
+	android:exported
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:372:13-37
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:370:13-56
+provider#com.fsck.k9.external.MessageProvider
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:377:9-380:40
+	android:authorities
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:379:13-67
+	android:exported
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:380:13-37
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:378:13-53
+provider#com.fsck.k9.provider.EmailProvider
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:381:9-384:40
+	android:authorities
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:383:13-66
+	android:exported
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:384:13-37
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:382:13-51
+provider#com.fsck.k9.provider.DecryptedFileProvider
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:385:9-393:20
+	android:grantUriPermissions
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:389:13-47
+	android:authorities
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:387:13-73
+	android:exported
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:388:13-37
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:386:13-59
+provider#com.fsck.k9.provider.AttachmentTempFileProvider
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:394:9-402:20
+	android:grantUriPermissions
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:398:13-47
+	android:authorities
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:396:13-68
+	android:exported
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:397:13-37
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:395:13-64
+manifest
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:2:1-404:12
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:2:1-404:12
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:2:1-404:12
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:2:1-404:12
+MERGED from [:backend:demo] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/demo/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:app:ui:legacy] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-57:12
+MERGED from [:app:storage] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/storage/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:app:crypto-openpgp] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/crypto-openpgp/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:app:ui:setup] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/setup/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:app:ui:base] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/base/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-20:12
+MERGED from [:app:autodiscovery:providersxml] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/providersxml/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:app:autodiscovery:api] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/api/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-33:12
+MERGED from [:backend:imap] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/imap/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:backend:pop3] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/pop3/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:backend:webdav] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/webdav/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:backend:api] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/api/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mikepenz:materialdrawer-iconics:8.4.5] /home/harish/.gradle/caches/transforms-3/40e2912e52230e017a81a34e24ed1aa7/transformed/materialdrawer-iconics-8.4.5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mikepenz:materialdrawer:8.4.5] /home/harish/.gradle/caches/transforms-3/6d75b4cf101cdaf43a4a47553a602f76/transformed/materialdrawer-8.4.5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mikepenz:fastadapter-extensions-utils:5.6.0] /home/harish/.gradle/caches/transforms-3/c56101ad11921a06da98b34265054147/transformed/fastadapter-extensions-utils-5.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mikepenz:fastadapter-extensions-drag:5.6.0] /home/harish/.gradle/caches/transforms-3/cdd41099d402c1d3a73f6587a84ce13c/transformed/fastadapter-extensions-drag-5.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [io.insert-koin:koin-android:3.1.5] /home/harish/.gradle/caches/transforms-3/9b3372153294b54ec7a13f6668aab4c9/transformed/koin-android-3.1.5/AndroidManifest.xml:2:1-9:12
+MERGED from [:plugins:openpgp-api-lib:openpgp-api] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/plugins/openpgp-api-lib/openpgp-api/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.takisoft.preferencex:preferencex-datetimepicker:1.1.0] /home/harish/.gradle/caches/transforms-3/601673d5932afa1b2dbecd0b09025e5c/transformed/preferencex-datetimepicker-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.takisoft.preferencex:preferencex-colorpicker:1.1.0] /home/harish/.gradle/caches/transforms-3/e5f7c73712f57bba45f684ebe6fe9274/transformed/preferencex-colorpicker-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.takisoft.preferencex:preferencex:1.1.0] /home/harish/.gradle/caches/transforms-3/fa6694fdff3d45e1ccfeee09d53b9721/transformed/preferencex-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.ByteHamster:SearchPreference:v2.1.0] /home/harish/.gradle/caches/transforms-3/a2cfdf8052399d3fd1a9ae248d7c6d98/transformed/SearchPreference-v2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.preference:preference:1.2.0] /home/harish/.gradle/caches/transforms-3/aa3c8458a4d8f04871e68dfaaf555293/transformed/preference-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.4.1] /home/harish/.gradle/caches/transforms-3/dd6ff7e49da8e0448f26ea6703ffebdd/transformed/navigation-fragment-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /home/harish/.gradle/caches/transforms-3/05526613d905f0b7cf20f7d0c30b6367/transformed/fragment-ktx-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.4.1] /home/harish/.gradle/caches/transforms-3/c4923e4a289c2f31eb12395b3ebc587f/transformed/navigation-ui-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.1] /home/harish/.gradle/caches/transforms-3/b2e1aff44517664143b407dc12982790/transformed/navigation-runtime-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.3.1] /home/harish/.gradle/caches/transforms-3/d123fec4901d2ae9e654137d411c4eac/transformed/activity-ktx-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.4.1] /home/harish/.gradle/caches/transforms-3/20000bd007be27733f7066fa317d0193/transformed/navigation-common-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.1] /home/harish/.gradle/caches/transforms-3/c65e36ddca03c2f55c501ed6fe200946/transformed/lifecycle-runtime-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] /home/harish/.gradle/caches/transforms-3/4e86e3cdf38c12e7c5ab30dff401552f/transformed/lifecycle-viewmodel-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime-ktx:2.7.1] /home/harish/.gradle/caches/transforms-3/ebd9dfe740600006cc2121fdcb6f39e3/transformed/work-runtime-ktx-2.7.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] /home/harish/.gradle/caches/transforms-3/e366f07f8d5c9b85f1f92bd40209d665/transformed/lifecycle-livedata-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/harish/.gradle/caches/transforms-3/d6d4b274f178b4cdad146e6c6c03c5ba/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /home/harish/.gradle/caches/transforms-3/a54272ef705dbde942f5ea1f0777d8ff/transformed/window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [com.mikepenz:iconics-core:5.3.2] /home/harish/.gradle/caches/transforms-3/41fe5edc84e4fc0b16b427aa9952cc1f/transformed/iconics-core-5.3.2/AndroidManifest.xml:17:1-43:12
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:5.6.0] /home/harish/.gradle/caches/transforms-3/15d91a7f67e47e56c8772cb5b373a49a/transformed/fastadapter-extensions-expandable-5.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mikepenz:fastadapter-extensions-swipe:5.6.0] /home/harish/.gradle/caches/transforms-3/385a610900184d1bcb056eb7bc783e0e/transformed/fastadapter-extensions-swipe-5.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mikepenz:iconics-typeface-api:5.3.2] /home/harish/.gradle/caches/transforms-3/53f07d41c649b7765c150429bf3497de/transformed/iconics-typeface-api-5.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [:plugins:liboqs-android] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/plugins/liboqs-android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [net.openid:appauth:0.11.1] /home/harish/.gradle/caches/transforms-3/cc5875991f00f4e11fb07cb504f6b82e/transformed/appauth-0.11.1/AndroidManifest.xml:15:1-55:12
+MERGED from [com.google.android.material:material:1.5.0] /home/harish/.gradle/caches/transforms-3/b37a706728c48aa9ff360d935dba21cb/transformed/material-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/harish/.gradle/caches/transforms-3/c2a766155c288cc9f3d4ac4bd06cd675/transformed/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.splitwise:tokenautocomplete:4.0.0-beta01] /home/harish/.gradle/caches/transforms-3/6a3862a71fa152be3c1a496fb36fb392/transformed/tokenautocomplete-4.0.0-beta01/AndroidManifest.xml:2:1-13:12
+MERGED from [com.mikepenz:fastadapter:5.6.0] /home/harish/.gradle/caches/transforms-3/2480897ed3c8c43dd9c3cd103f7109d9/transformed/fastadapter-5.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.biometric:biometric:1.1.0] /home/harish/.gradle/caches/transforms-3/761a34af967f4a85b0e267434191a5eb/transformed/biometric-1.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.takisoft.datetimepicker:datetimepicker:1.0.2] /home/harish/.gradle/caches/transforms-3/234bf9203b39eb216ad94c71ec79cf69/transformed/datetimepicker-1.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.takisoft.colorpicker:colorpicker:1.0.0] /home/harish/.gradle/caches/transforms-3/e5beba225cb32a901852d41d86e09c16/transformed/colorpicker-1.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/harish/.gradle/caches/transforms-3/e776a1c2b39899d8086d04506e9d2247/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.13.1] /home/harish/.gradle/caches/transforms-3/03918333b3219f047a380425408ae6bd/transformed/glide-4.13.1/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/harish/.gradle/caches/transforms-3/a43d0eb89f608e2156479926be60f4bd/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/harish/.gradle/caches/transforms-3/147301ccbbbb2ee4575122e038c29355/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.4.1] /home/harish/.gradle/caches/transforms-3/730a5217188375b1b357bebaaf131910/transformed/fragment-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /home/harish/.gradle/caches/transforms-3/2f3185e269f4a5cdf73196155c020a1d/transformed/core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.jakewharton.timber:timber:5.0.1] /home/harish/.gradle/caches/transforms-3/0a3cbf4c2cc03fb641897657ca781eb6/transformed/timber-5.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.activity:activity:1.4.0] /home/harish/.gradle/caches/transforms-3/d91aa44a192413e98611cd96770f3071/transformed/activity-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/harish/.gradle/caches/transforms-3/7fc034d902ddac08c2dc065a4cf02df8/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/harish/.gradle/caches/transforms-3/641df870807680e4da00b7d5cde98efc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/harish/.gradle/caches/transforms-3/a798bc236927b9e7146594ecc14139e9/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/harish/.gradle/caches/transforms-3/8eb726f23dcfa521fd50f1f38657f031/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] /home/harish/.gradle/caches/transforms-3/a0869a95c2c3974bb5e21dc2b7a81a07/transformed/lifecycle-viewmodel-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] /home/harish/.gradle/caches/transforms-3/eecec9a242523b663a2de6dd66402899/transformed/lifecycle-livedata-core-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.flexbox:flexbox:3.0.0] /home/harish/.gradle/caches/transforms-3/aadd5c6b60ac1a68af32757b88f88690/transformed/flexbox-3.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/harish/.gradle/caches/transforms-3/58b24a80dfb2995c99125dc21aacfccc/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/harish/.gradle/caches/transforms-3/faa2e63689cbd076838ef50b0be869b2/transformed/recyclerview-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/harish/.gradle/caches/transforms-3/ad5acf4e5139c0195685ac06b6d3d489/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /home/harish/.gradle/caches/transforms-3/767a0558080a0dd87e3fa68728d21dd0/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/harish/.gradle/caches/transforms-3/c69baae0056ab7c6c80de90c676ec048/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [de.cketti.library.changelog:ckchangelog-core:2.0.0-beta02] /home/harish/.gradle/caches/transforms-3/2b15d06df33583694a25722bd1d4f0c6/transformed/ckchangelog-core-2.0.0-beta02/AndroidManifest.xml:2:1-10:12
+MERGED from [de.cketti.safecontentresolver:safe-content-resolver-v21:1.0.0] /home/harish/.gradle/caches/transforms-3/744371c8e496c4f38dd103de86435034/transformed/safe-content-resolver-v21-1.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.mikepenz:fontawesome-typeface:5.9.0.0-kotlin] /home/harish/.gradle/caches/transforms-3/9600fad9ab49070c205ac0979e3f7aa2/transformed/fontawesome-typeface-5.9.0.0-kotlin/AndroidManifest.xml:17:1-26:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /home/harish/.gradle/caches/transforms-3/65f14a4aa0d51dd8e2347afd240ef75b/transformed/circleimageview-3.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/harish/.gradle/caches/transforms-3/548b0463db001d1c9e234f1e92600614/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/harish/.gradle/caches/transforms-3/e4f16d1e948787eb3dfb614f4e5434f1/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/harish/.gradle/caches/transforms-3/f2aa64d7e065f2b938fd9c0d6b35f93d/transformed/emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.browser:browser:1.3.0] /home/harish/.gradle/caches/transforms-3/dd6651630d0a85aba0e4a7d91dc553db/transformed/browser-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/harish/.gradle/caches/transforms-3/a99e1b1164cf6b95689975b97c694036/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/harish/.gradle/caches/transforms-3/5b61f22cc5ff7285a05ee3dea339ff44/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/harish/.gradle/caches/transforms-3/3db36b977b622f4116462c79cadfe990/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/harish/.gradle/caches/transforms-3/2902cec698169d5a6180898b73692322/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/harish/.gradle/caches/transforms-3/29aa4e802a51dc7acc7a503349d5990c/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/harish/.gradle/caches/transforms-3/3eeacdd56b7bd40f588d2e7c75443e6a/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] /home/harish/.gradle/caches/transforms-3/8bfc024171f739b29251d3cd3c8eb03c/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /home/harish/.gradle/caches/transforms-3/994e0162bb77094eef724a63125e9d31/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/harish/.gradle/caches/transforms-3/5fce6bfcf3142ba238fec3d3f9a761d7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/harish/.gradle/caches/transforms-3/e69d343380a6b237d4cd3b14aaa15a90/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.1] /home/harish/.gradle/caches/transforms-3/d97d2ec65f2db28181a4fb284db650e8/transformed/gifdecoder-4.13.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /home/harish/.gradle/caches/transforms-3/308f9543667ffc312b9f92d92867977f/transformed/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/harish/.gradle/caches/transforms-3/1b5befeb1bfbba5589784b9b43dee023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.1.0] /home/harish/.gradle/caches/transforms-3/dafbce0848925807772256bcce06b594/transformed/startup-runtime-1.1.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/harish/.gradle/caches/transforms-3/a42fa0309fad091cdd320bafcf5b51c6/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/harish/.gradle/caches/transforms-3/bb73fd19a939c58fd610e7b4ff7ff304/transformed/lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.1] /home/harish/.gradle/caches/transforms-3/4aa49f5bd9e6bfd8eb6c895e47326d02/transformed/lifecycle-runtime-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] /home/harish/.gradle/caches/transforms-3/13ac22269a38c4ac64561d192e3ca6b7/transformed/lifecycle-livedata-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.1] /home/harish/.gradle/caches/transforms-3/d9483200f46d2cb033ab9b4037a55a15/transformed/lifecycle-livedata-core-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/harish/.gradle/caches/transforms-3/7f6d844f981a748a488c51ceae70a47d/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/harish/.gradle/caches/transforms-3/9bc3987d25402755f5ab917c5d92c815/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.room:room-runtime:2.2.5] /home/harish/.gradle/caches/transforms-3/e33897c096d15affc6a95a1d1a3f6be2/transformed/room-runtime-2.2.5/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/harish/.gradle/caches/transforms-3/86f2e37c07bf9b0e45a5f5ddb0af40b2/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/harish/.gradle/caches/transforms-3/d08fa1a94f381aaf5fb18d4649fbfba7/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/harish/.gradle/caches/transforms-3/2b4dae94aa2394cdb105455736278756/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/harish/.gradle/caches/transforms-3/f765598da1dbedb5d6494bf2fd8743f6/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/harish/.gradle/caches/transforms-3/3ff70ecdf71320d8a1068cc06aa17aeb/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/harish/.gradle/caches/transforms-3/4212d018beaea4c9f63c2c45cbf5d731/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:2:1-404:12
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:2:1-404:12
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:2:1-404:12
+	package
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:4:5-26
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:2:1-404:12
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:2:1-404:12
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:5:5-35
+uses-feature#android.hardware.touchscreen
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:7:5-9:36
+	android:required
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:9:9-33
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:8:9-52
+supports-screens
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:11:5-15:39
+	android:largeScreens
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:13:9-36
+	android:smallScreens
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:15:9-36
+	android:normalScreens
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:14:9-37
+	android:anyDensity
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:12:9-34
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:17:5-81
+MERGED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:27:5-81
+MERGED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:18:5-72
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:18:22-69
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:19:5-77
+MERGED from [:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-77
+MERGED from [:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-77
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:19:22-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:20:5-79
+MERGED from [:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-79
+MERGED from [:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-79
+MERGED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:20:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:21:5-67
+MERGED from [net.openid:appauth:0.11.1] /home/harish/.gradle/caches/transforms-3/cc5875991f00f4e11fb07cb504f6b82e/transformed/appauth-0.11.1/AndroidManifest.xml:22:5-67
+MERGED from [net.openid:appauth:0.11.1] /home/harish/.gradle/caches/transforms-3/cc5875991f00f4e11fb07cb504f6b82e/transformed/appauth-0.11.1/AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:21:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:22:5-66
+MERGED from [:app:ui:legacy] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-66
+MERGED from [:app:ui:legacy] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:22:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:23:5-68
+MERGED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:23:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:24:5-77
+MERGED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:28:5-77
+MERGED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:24:22-74
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:25:22-76
+application
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:27:5-403:19
+MERGED from [:app:ui:legacy] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/build/intermediates/merged_manifest/debug/AndroidManifest.xml:53:5-55:49
+MERGED from [:app:ui:legacy] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/build/intermediates/merged_manifest/debug/AndroidManifest.xml:53:5-55:49
+MERGED from [:app:ui:base] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/base/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-18:19
+MERGED from [:app:ui:base] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/base/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-18:19
+MERGED from [:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:5-31:19
+MERGED from [:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:5-31:19
+MERGED from [io.insert-koin:koin-android:3.1.5] /home/harish/.gradle/caches/transforms-3/9b3372153294b54ec7a13f6668aab4c9/transformed/koin-android-3.1.5/AndroidManifest.xml:7:5-20
+MERGED from [io.insert-koin:koin-android:3.1.5] /home/harish/.gradle/caches/transforms-3/9b3372153294b54ec7a13f6668aab4c9/transformed/koin-android-3.1.5/AndroidManifest.xml:7:5-20
+MERGED from [:plugins:openpgp-api-lib:openpgp-api] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/plugins/openpgp-api-lib/openpgp-api/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-20
+MERGED from [:plugins:openpgp-api-lib:openpgp-api] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/plugins/openpgp-api-lib/openpgp-api/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-20
+MERGED from [androidx.window:window:1.0.0] /home/harish/.gradle/caches/transforms-3/a54272ef705dbde942f5ea1f0777d8ff/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /home/harish/.gradle/caches/transforms-3/a54272ef705dbde942f5ea1f0777d8ff/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [com.mikepenz:iconics-core:5.3.2] /home/harish/.gradle/caches/transforms-3/41fe5edc84e4fc0b16b427aa9952cc1f/transformed/iconics-core-5.3.2/AndroidManifest.xml:25:5-41:19
+MERGED from [com.mikepenz:iconics-core:5.3.2] /home/harish/.gradle/caches/transforms-3/41fe5edc84e4fc0b16b427aa9952cc1f/transformed/iconics-core-5.3.2/AndroidManifest.xml:25:5-41:19
+MERGED from [net.openid:appauth:0.11.1] /home/harish/.gradle/caches/transforms-3/cc5875991f00f4e11fb07cb504f6b82e/transformed/appauth-0.11.1/AndroidManifest.xml:34:5-53:19
+MERGED from [net.openid:appauth:0.11.1] /home/harish/.gradle/caches/transforms-3/cc5875991f00f4e11fb07cb504f6b82e/transformed/appauth-0.11.1/AndroidManifest.xml:34:5-53:19
+MERGED from [com.google.android.material:material:1.5.0] /home/harish/.gradle/caches/transforms-3/b37a706728c48aa9ff360d935dba21cb/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] /home/harish/.gradle/caches/transforms-3/b37a706728c48aa9ff360d935dba21cb/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/harish/.gradle/caches/transforms-3/c2a766155c288cc9f3d4ac4bd06cd675/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/harish/.gradle/caches/transforms-3/c2a766155c288cc9f3d4ac4bd06cd675/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.splitwise:tokenautocomplete:4.0.0-beta01] /home/harish/.gradle/caches/transforms-3/6a3862a71fa152be3c1a496fb36fb392/transformed/tokenautocomplete-4.0.0-beta01/AndroidManifest.xml:11:5-20
+MERGED from [com.splitwise:tokenautocomplete:4.0.0-beta01] /home/harish/.gradle/caches/transforms-3/6a3862a71fa152be3c1a496fb36fb392/transformed/tokenautocomplete-4.0.0-beta01/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.1] /home/harish/.gradle/caches/transforms-3/03918333b3219f047a380425408ae6bd/transformed/glide-4.13.1/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.13.1] /home/harish/.gradle/caches/transforms-3/03918333b3219f047a380425408ae6bd/transformed/glide-4.13.1/AndroidManifest.xml:10:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/harish/.gradle/caches/transforms-3/a43d0eb89f608e2156479926be60f4bd/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/harish/.gradle/caches/transforms-3/a43d0eb89f608e2156479926be60f4bd/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.jakewharton.timber:timber:5.0.1] /home/harish/.gradle/caches/transforms-3/0a3cbf4c2cc03fb641897657ca781eb6/transformed/timber-5.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:5.0.1] /home/harish/.gradle/caches/transforms-3/0a3cbf4c2cc03fb641897657ca781eb6/transformed/timber-5.0.1/AndroidManifest.xml:7:5-20
+MERGED from [de.cketti.library.changelog:ckchangelog-core:2.0.0-beta02] /home/harish/.gradle/caches/transforms-3/2b15d06df33583694a25722bd1d4f0c6/transformed/ckchangelog-core-2.0.0-beta02/AndroidManifest.xml:8:5-20
+MERGED from [de.cketti.library.changelog:ckchangelog-core:2.0.0-beta02] /home/harish/.gradle/caches/transforms-3/2b15d06df33583694a25722bd1d4f0c6/transformed/ckchangelog-core-2.0.0-beta02/AndroidManifest.xml:8:5-20
+MERGED from [de.cketti.safecontentresolver:safe-content-resolver-v21:1.0.0] /home/harish/.gradle/caches/transforms-3/744371c8e496c4f38dd103de86435034/transformed/safe-content-resolver-v21-1.0.0/AndroidManifest.xml:7:5-20
+MERGED from [de.cketti.safecontentresolver:safe-content-resolver-v21:1.0.0] /home/harish/.gradle/caches/transforms-3/744371c8e496c4f38dd103de86435034/transformed/safe-content-resolver-v21-1.0.0/AndroidManifest.xml:7:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /home/harish/.gradle/caches/transforms-3/65f14a4aa0d51dd8e2347afd240ef75b/transformed/circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /home/harish/.gradle/caches/transforms-3/65f14a4aa0d51dd8e2347afd240ef75b/transformed/circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/harish/.gradle/caches/transforms-3/f2aa64d7e065f2b938fd9c0d6b35f93d/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/harish/.gradle/caches/transforms-3/f2aa64d7e065f2b938fd9c0d6b35f93d/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.core:core:1.7.0] /home/harish/.gradle/caches/transforms-3/994e0162bb77094eef724a63125e9d31/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /home/harish/.gradle/caches/transforms-3/994e0162bb77094eef724a63125e9d31/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.1] /home/harish/.gradle/caches/transforms-3/d97d2ec65f2db28181a4fb284db650e8/transformed/gifdecoder-4.13.1/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.1] /home/harish/.gradle/caches/transforms-3/d97d2ec65f2db28181a4fb284db650e8/transformed/gifdecoder-4.13.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/harish/.gradle/caches/transforms-3/1b5befeb1bfbba5589784b9b43dee023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/harish/.gradle/caches/transforms-3/1b5befeb1bfbba5589784b9b43dee023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.0] /home/harish/.gradle/caches/transforms-3/dafbce0848925807772256bcce06b594/transformed/startup-runtime-1.1.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.0] /home/harish/.gradle/caches/transforms-3/dafbce0848925807772256bcce06b594/transformed/startup-runtime-1.1.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/harish/.gradle/caches/transforms-3/9bc3987d25402755f5ab917c5d92c815/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/harish/.gradle/caches/transforms-3/9bc3987d25402755f5ab917c5d92c815/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.room:room-runtime:2.2.5] /home/harish/.gradle/caches/transforms-3/e33897c096d15affc6a95a1d1a3f6be2/transformed/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] /home/harish/.gradle/caches/transforms-3/e33897c096d15affc6a95a1d1a3f6be2/transformed/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /home/harish/.gradle/caches/transforms-3/994e0162bb77094eef724a63125e9d31/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:35:9-35
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:32:9-41
+	android:resizeableActivity
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:34:9-42
+	tools:ignore
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:38:9-39
+	android:allowTaskReparenting
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:30:9-45
+	android:icon
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:31:9-45
+	android:allowBackup
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:29:9-36
+	android:theme
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:36:9-48
+		REJECTED from [:app:ui:legacy] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/build/intermediates/merged_manifest/debug/AndroidManifest.xml:55:9-46
+	android:networkSecurityConfig
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:33:9-69
+	tools:replace
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:39:9-38
+	android:usesCleartextTraffic
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:37:9-44
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:28:9-39
+profileable
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:40:9-42:35
+	android:shell
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:41:13-33
+	tools:targetApi
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:42:13-32
+meta-data#android.app.default_searchable
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:44:9-46:59
+	android:value
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:46:13-56
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:45:13-58
+meta-data#com.lge.support.SPLIT_WINDOW
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:47:9-49:36
+	android:value
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:49:13-33
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:48:13-56
+uses-library#com.sec.android.app.multiwindow
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:51:9-53:40
+	android:required
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:52:13-59
+meta-data#com.sec.android.support.multiwindow
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:55:9-57:36
+	android:value
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:57:13-33
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:56:13-63
+meta-data#com.samsung.android.sdk.multiwindow.penwindow.enable
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:58:9-60:36
+	android:value
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:60:13-33
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:59:13-80
+meta-data#android.webkit.WebView.MetricsOptOut
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:61:9-63:36
+	android:value
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:63:13-33
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:62:13-64
+activity#com.fsck.k9.ui.onboarding.OnboardingActivity
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:65:9-67:61
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:67:13-58
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:66:13-61
+activity#com.fsck.k9.ui.settings.account.OpenPgpAppSelectDialog
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:68:9-71:75
+	android:configChanges
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:70:13-43
+	android:theme
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:71:13-72
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:69:13-71
+activity#com.fsck.k9.activity.setup.AccountSetupBasics
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:72:9-75:66
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:75:13-63
+	android:configChanges
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:74:13-43
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:73:13-62
+activity#com.fsck.k9.activity.setup.AccountSetupAccountType
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:76:9-79:72
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:79:13-69
+	android:configChanges
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:78:13-43
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:77:13-67
+activity#com.fsck.k9.activity.setup.AccountSetupIncoming
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:80:9-83:68
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:83:13-65
+	android:configChanges
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:82:13-43
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:81:13-64
+activity#com.fsck.k9.activity.setup.AccountSetupComposition
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:84:9-87:74
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:87:13-71
+	android:configChanges
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:86:13-43
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:85:13-67
+activity#com.fsck.k9.activity.setup.AccountSetupOutgoing
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:88:9-91:68
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:91:13-65
+	android:configChanges
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:90:13-43
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:89:13-64
+activity#com.fsck.k9.activity.setup.AccountSetupOptions
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:92:9-95:67
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:95:13-64
+	android:configChanges
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:94:13-43
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:93:13-63
+activity#com.fsck.k9.activity.setup.AccountSetupNames
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:96:9-99:65
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:99:13-62
+	android:configChanges
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:98:13-43
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:97:13-61
+activity#com.fsck.k9.activity.ChooseAccount
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:100:9-104:40
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:103:13-57
+	android:noHistory
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:104:13-37
+	android:configChanges
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:102:13-43
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:101:13-51
+activity#com.fsck.k9.ui.choosefolder.ChooseFolderActivity
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:105:9-109:40
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:108:13-56
+	android:noHistory
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:109:13-37
+	android:configChanges
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:107:13-43
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:106:13-65
+activity#com.fsck.k9.activity.ChooseIdentity
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:110:9-113:61
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:113:13-58
+	android:configChanges
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:112:13-43
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:111:13-52
+activity#com.fsck.k9.activity.ManageIdentities
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:114:9-117:63
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:117:13-60
+	android:configChanges
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:116:13-43
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:115:13-54
+activity#com.fsck.k9.activity.EditIdentity
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:118:9-121:59
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:121:13-56
+	android:configChanges
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:120:13-43
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:119:13-50
+activity#com.fsck.k9.ui.notification.DeleteConfirmationActivity
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:122:9-127:75
+	android:excludeFromRecents
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:124:13-46
+	android:launchMode
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:125:13-43
+	android:theme
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:127:13-72
+	android:taskAffinity
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:126:13-36
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:123:13-71
+activity#com.fsck.k9.activity.setup.AccountSetupCheckSettings
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:132:9-135:74
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:135:13-71
+	android:configChanges
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:134:13-70
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:133:13-69
+activity#com.fsck.k9.ui.endtoend.AutocryptKeyTransferActivity
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:136:9-139:57
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:139:13-54
+	android:configChanges
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:138:13-43
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:137:13-69
+activity#com.fsck.k9.ui.settings.account.postquantum.PQGenerateKeysActivity
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:140:9-143:56
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:143:13-53
+	android:configChanges
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:142:13-43
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:141:13-94
+activity#com.fsck.k9.ui.settings.account.postquantum.PQImportKeysActivity
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:144:9-147:54
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:147:13-51
+	android:configChanges
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:146:13-43
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:145:13-92
+activity#com.fsck.k9.activity.MessageList
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:148:9-172:20
+	android:launchMode
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:151:13-43
+	android:exported
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:150:13-36
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:149:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.APP_EMAIL+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.MULTIWINDOW_LAUNCHER+category:name:android.intent.category.PENWINDOW_LAUNCHER
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:152:13-162:29
+action#android.intent.action.MAIN
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:153:17-69
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:153:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:155:17-76
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:155:27-73
+category#android.intent.category.LAUNCHER
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:156:17-77
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:156:27-74
+category#android.intent.category.APP_EMAIL
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:157:17-78
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:157:27-75
+category#android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:160:17-89
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:160:27-86
+category#android.intent.category.PENWINDOW_LAUNCHER
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:161:17-87
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:161:27-84
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:host:messages+data:scheme:k9mail
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:163:13-171:29
+action#android.intent.action.VIEW
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:164:17-69
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:164:25-66
+data
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:166:17-168:47
+	android:host
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:167:21-44
+	android:scheme
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:168:21-44
+	android:mimeType
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:199:23-45
+activity-alias#com.fsck.k9.activity.FolderList
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:174:9-177:62
+	android:exported
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:176:13-36
+	android:targetActivity
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:177:13-59
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:175:13-48
+activity-alias#com.fsck.k9.activity.Accounts
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:179:9-182:62
+	android:exported
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:181:13-36
+	android:targetActivity
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:182:13-59
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:180:13-46
+activity#com.fsck.k9.activity.MessageCompose
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:184:9-227:20
+	android:enabled
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:187:13-36
+	android:exported
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:188:13-36
+	android:configChanges
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:186:13-43
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:185:13-52
+intent-filter#action:name:android.intent.action.SENDTO+category:name:android.intent.category.DEFAULT+data:scheme:mailto
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:189:13-195:29
+action#android.intent.action.SENDTO
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:190:17-71
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:190:25-68
+intent-filter#action:name:android.intent.action.SEND+category:name:android.intent.category.DEFAULT+data:mimeType:*/*
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:196:13-202:29
+action#android.intent.action.SEND
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:197:17-69
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:197:25-66
+intent-filter#action:name:android.intent.action.SEND_MULTIPLE+category:name:android.intent.category.DEFAULT+data:mimeType:*/*
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:203:13-209:29
+action#android.intent.action.SEND_MULTIPLE
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:204:17-78
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:204:25-75
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:mailto
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:210:13-217:29
+category#android.intent.category.BROWSABLE
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:216:17-78
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:216:27-75
+intent-filter#action:name:org.autocrypt.PEER_ACTION+category:name:android.intent.category.DEFAULT
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:218:13-222:29
+action#org.autocrypt.PEER_ACTION
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:219:17-68
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:219:25-65
+meta-data#android.service.chooser.chooser_target_service
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:224:13-226:82
+	android:value
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:226:17-79
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:225:17-78
+activity#com.fsck.k9.activity.Search
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:228:9-243:20
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:232:13-50
+	android:exported
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:231:13-36
+	android:uiOptions
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:233:13-57
+	android:configChanges
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:230:13-43
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:229:13-44
+intent-filter#action:name:android.intent.action.SEARCH+category:name:android.intent.category.DEFAULT
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:234:13-238:29
+action#android.intent.action.SEARCH
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:235:17-71
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:235:25-68
+meta-data#android.app.searchable
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:240:13-242:54
+	android:resource
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:242:17-51
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:241:17-54
+activity#com.fsck.k9.activity.LauncherShortcuts
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:244:9-254:20
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:248:13-52
+	android:exported
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:247:13-36
+	android:configChanges
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:246:13-43
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:245:13-55
+intent-filter#action:name:android.intent.action.CREATE_SHORTCUT+category:name:android.intent.category.DEFAULT
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:249:13-253:29
+action#android.intent.action.CREATE_SHORTCUT
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:250:17-80
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:250:25-77
+activity#com.fsck.k9.widget.unread.UnreadWidgetConfigurationActivity
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:255:9-261:20
+	android:exported
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:257:13-37
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:256:13-76
+intent-filter#action:name:android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:258:13-260:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:259:17-87
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:259:25-84
+activity#com.fsck.k9.activity.UpgradeDatabases
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:262:9-264:63
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:264:13-60
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:263:13-54
+activity#com.fsck.k9.ui.managefolders.ManageFoldersActivity
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:265:9-267:54
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:267:13-51
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:266:13-67
+activity#com.fsck.k9.ui.settings.SettingsActivity
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:268:9-270:51
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:270:13-48
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:269:13-57
+activity#com.fsck.k9.ui.settings.general.GeneralSettingsActivity
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:271:9-273:62
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:273:13-59
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:272:13-72
+activity#com.fsck.k9.ui.settings.account.AccountSettingsActivity
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:274:9-276:66
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:276:13-63
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:275:13-72
+activity#com.fsck.k9.ui.messagesource.MessageSourceActivity
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:277:9-279:59
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:279:13-56
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:278:13-67
+activity#com.fsck.k9.ui.changelog.RecentChangesActivity
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:280:9-282:70
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:282:13-67
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:281:13-63
+activity#com.fsck.k9.activity.setup.OAuthFlowActivity
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:295:9-297:66
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:297:13-63
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:296:13-61
+receiver#com.fsck.k9.provider.UnreadWidgetProvider
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:299:9-311:20
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:303:13-56
+	android:exported
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:301:13-37
+	android:icon
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:302:13-49
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:300:13-58
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:304:13-306:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:305:17-84
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:305:25-81
+meta-data#android.appwidget.provider
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:308:13-310:62
+	android:resource
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:310:17-59
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:309:17-58
+receiver#com.fsck.k9.widget.list.MessageListWidgetProvider
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:312:9-324:20
+	android:label
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:316:13-58
+	android:exported
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:314:13-37
+	android:icon
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:315:13-65
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:313:13-66
+receiver#com.fsck.k9.controller.push.BootCompleteReceiver
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:325:9-332:20
+	android:enabled
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:327:13-36
+	android:exported
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:328:13-37
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:326:13-65
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:329:13-331:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:330:17-79
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:330:25-76
+service#com.fsck.k9.widget.list.MessageListWidgetService
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:334:9-337:72
+	android:enabled
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:336:13-35
+	android:permission
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:337:13-69
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:335:13-65
+service#com.fsck.k9.notification.NotificationActionService
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:338:9-340:38
+	android:enabled
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:340:13-35
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:339:13-67
+service#com.fsck.k9.service.DatabaseUpgradeService
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:341:9-343:40
+	android:exported
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:343:13-37
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:342:13-59
+service#com.fsck.k9.directshare.K9ChooserTargetService
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:344:9-351:19
+	android:exported
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:346:13-37
+	android:permission
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:347:13-80
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:345:13-74
+intent-filter#action:name:android.service.chooser.ChooserTargetService
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:348:13-350:29
+action#android.service.chooser.ChooserTargetService
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:349:17-87
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:349:25-84
+service#com.fsck.k9.account.AccountRemoverService
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:352:9-354:72
+	android:permission
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:354:13-69
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:353:13-69
+service#com.fsck.k9.controller.push.PushService
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:355:9-358:56
+	android:exported
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:357:13-37
+	android:foregroundServiceType
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:358:13-53
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:356:13-56
+uses-sdk
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml
+MERGED from [:backend:demo] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/demo/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:backend:demo] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/demo/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:app:ui:legacy] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:app:ui:legacy] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:app:storage] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/storage/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:app:storage] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/storage/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:app:crypto-openpgp] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/crypto-openpgp/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:app:crypto-openpgp] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/crypto-openpgp/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:app:ui:setup] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/setup/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:app:ui:setup] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/setup/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:app:ui:base] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/base/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:app:ui:base] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/base/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:app:autodiscovery:providersxml] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/providersxml/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:app:autodiscovery:providersxml] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/providersxml/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:app:autodiscovery:api] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/api/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:app:autodiscovery:api] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/autodiscovery/api/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:backend:imap] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/imap/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:backend:imap] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/imap/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:backend:pop3] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/pop3/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:backend:pop3] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/pop3/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:backend:webdav] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/webdav/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:backend:webdav] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/webdav/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:backend:api] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/api/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:backend:api] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/backend/api/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:materialdrawer-iconics:8.4.5] /home/harish/.gradle/caches/transforms-3/40e2912e52230e017a81a34e24ed1aa7/transformed/materialdrawer-iconics-8.4.5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:materialdrawer-iconics:8.4.5] /home/harish/.gradle/caches/transforms-3/40e2912e52230e017a81a34e24ed1aa7/transformed/materialdrawer-iconics-8.4.5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:materialdrawer:8.4.5] /home/harish/.gradle/caches/transforms-3/6d75b4cf101cdaf43a4a47553a602f76/transformed/materialdrawer-8.4.5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:materialdrawer:8.4.5] /home/harish/.gradle/caches/transforms-3/6d75b4cf101cdaf43a4a47553a602f76/transformed/materialdrawer-8.4.5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:fastadapter-extensions-utils:5.6.0] /home/harish/.gradle/caches/transforms-3/c56101ad11921a06da98b34265054147/transformed/fastadapter-extensions-utils-5.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:fastadapter-extensions-utils:5.6.0] /home/harish/.gradle/caches/transforms-3/c56101ad11921a06da98b34265054147/transformed/fastadapter-extensions-utils-5.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:fastadapter-extensions-drag:5.6.0] /home/harish/.gradle/caches/transforms-3/cdd41099d402c1d3a73f6587a84ce13c/transformed/fastadapter-extensions-drag-5.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:fastadapter-extensions-drag:5.6.0] /home/harish/.gradle/caches/transforms-3/cdd41099d402c1d3a73f6587a84ce13c/transformed/fastadapter-extensions-drag-5.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-android:3.1.5] /home/harish/.gradle/caches/transforms-3/9b3372153294b54ec7a13f6668aab4c9/transformed/koin-android-3.1.5/AndroidManifest.xml:5:5-44
+MERGED from [io.insert-koin:koin-android:3.1.5] /home/harish/.gradle/caches/transforms-3/9b3372153294b54ec7a13f6668aab4c9/transformed/koin-android-3.1.5/AndroidManifest.xml:5:5-44
+MERGED from [:plugins:openpgp-api-lib:openpgp-api] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/plugins/openpgp-api-lib/openpgp-api/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:plugins:openpgp-api-lib:openpgp-api] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/plugins/openpgp-api-lib/openpgp-api/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.takisoft.preferencex:preferencex-datetimepicker:1.1.0] /home/harish/.gradle/caches/transforms-3/601673d5932afa1b2dbecd0b09025e5c/transformed/preferencex-datetimepicker-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.takisoft.preferencex:preferencex-datetimepicker:1.1.0] /home/harish/.gradle/caches/transforms-3/601673d5932afa1b2dbecd0b09025e5c/transformed/preferencex-datetimepicker-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.takisoft.preferencex:preferencex-colorpicker:1.1.0] /home/harish/.gradle/caches/transforms-3/e5f7c73712f57bba45f684ebe6fe9274/transformed/preferencex-colorpicker-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.takisoft.preferencex:preferencex-colorpicker:1.1.0] /home/harish/.gradle/caches/transforms-3/e5f7c73712f57bba45f684ebe6fe9274/transformed/preferencex-colorpicker-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.takisoft.preferencex:preferencex:1.1.0] /home/harish/.gradle/caches/transforms-3/fa6694fdff3d45e1ccfeee09d53b9721/transformed/preferencex-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.takisoft.preferencex:preferencex:1.1.0] /home/harish/.gradle/caches/transforms-3/fa6694fdff3d45e1ccfeee09d53b9721/transformed/preferencex-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ByteHamster:SearchPreference:v2.1.0] /home/harish/.gradle/caches/transforms-3/a2cfdf8052399d3fd1a9ae248d7c6d98/transformed/SearchPreference-v2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ByteHamster:SearchPreference:v2.1.0] /home/harish/.gradle/caches/transforms-3/a2cfdf8052399d3fd1a9ae248d7c6d98/transformed/SearchPreference-v2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.preference:preference:1.2.0] /home/harish/.gradle/caches/transforms-3/aa3c8458a4d8f04871e68dfaaf555293/transformed/preference-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.0] /home/harish/.gradle/caches/transforms-3/aa3c8458a4d8f04871e68dfaaf555293/transformed/preference-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.1] /home/harish/.gradle/caches/transforms-3/dd6ff7e49da8e0448f26ea6703ffebdd/transformed/navigation-fragment-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.1] /home/harish/.gradle/caches/transforms-3/dd6ff7e49da8e0448f26ea6703ffebdd/transformed/navigation-fragment-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /home/harish/.gradle/caches/transforms-3/05526613d905f0b7cf20f7d0c30b6367/transformed/fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /home/harish/.gradle/caches/transforms-3/05526613d905f0b7cf20f7d0c30b6367/transformed/fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.1] /home/harish/.gradle/caches/transforms-3/c4923e4a289c2f31eb12395b3ebc587f/transformed/navigation-ui-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.1] /home/harish/.gradle/caches/transforms-3/c4923e4a289c2f31eb12395b3ebc587f/transformed/navigation-ui-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.1] /home/harish/.gradle/caches/transforms-3/b2e1aff44517664143b407dc12982790/transformed/navigation-runtime-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.1] /home/harish/.gradle/caches/transforms-3/b2e1aff44517664143b407dc12982790/transformed/navigation-runtime-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.1] /home/harish/.gradle/caches/transforms-3/d123fec4901d2ae9e654137d411c4eac/transformed/activity-ktx-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.3.1] /home/harish/.gradle/caches/transforms-3/d123fec4901d2ae9e654137d411c4eac/transformed/activity-ktx-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.1] /home/harish/.gradle/caches/transforms-3/20000bd007be27733f7066fa317d0193/transformed/navigation-common-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.1] /home/harish/.gradle/caches/transforms-3/20000bd007be27733f7066fa317d0193/transformed/navigation-common-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.1] /home/harish/.gradle/caches/transforms-3/c65e36ddca03c2f55c501ed6fe200946/transformed/lifecycle-runtime-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.1] /home/harish/.gradle/caches/transforms-3/c65e36ddca03c2f55c501ed6fe200946/transformed/lifecycle-runtime-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] /home/harish/.gradle/caches/transforms-3/4e86e3cdf38c12e7c5ab30dff401552f/transformed/lifecycle-viewmodel-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1] /home/harish/.gradle/caches/transforms-3/4e86e3cdf38c12e7c5ab30dff401552f/transformed/lifecycle-viewmodel-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime-ktx:2.7.1] /home/harish/.gradle/caches/transforms-3/ebd9dfe740600006cc2121fdcb6f39e3/transformed/work-runtime-ktx-2.7.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime-ktx:2.7.1] /home/harish/.gradle/caches/transforms-3/ebd9dfe740600006cc2121fdcb6f39e3/transformed/work-runtime-ktx-2.7.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] /home/harish/.gradle/caches/transforms-3/e366f07f8d5c9b85f1f92bd40209d665/transformed/lifecycle-livedata-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.4.1] /home/harish/.gradle/caches/transforms-3/e366f07f8d5c9b85f1f92bd40209d665/transformed/lifecycle-livedata-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/harish/.gradle/caches/transforms-3/d6d4b274f178b4cdad146e6c6c03c5ba/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/harish/.gradle/caches/transforms-3/d6d4b274f178b4cdad146e6c6c03c5ba/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /home/harish/.gradle/caches/transforms-3/a54272ef705dbde942f5ea1f0777d8ff/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /home/harish/.gradle/caches/transforms-3/a54272ef705dbde942f5ea1f0777d8ff/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.mikepenz:iconics-core:5.3.2] /home/harish/.gradle/caches/transforms-3/41fe5edc84e4fc0b16b427aa9952cc1f/transformed/iconics-core-5.3.2/AndroidManifest.xml:21:5-23:41
+MERGED from [com.mikepenz:iconics-core:5.3.2] /home/harish/.gradle/caches/transforms-3/41fe5edc84e4fc0b16b427aa9952cc1f/transformed/iconics-core-5.3.2/AndroidManifest.xml:21:5-23:41
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:5.6.0] /home/harish/.gradle/caches/transforms-3/15d91a7f67e47e56c8772cb5b373a49a/transformed/fastadapter-extensions-expandable-5.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:fastadapter-extensions-expandable:5.6.0] /home/harish/.gradle/caches/transforms-3/15d91a7f67e47e56c8772cb5b373a49a/transformed/fastadapter-extensions-expandable-5.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:fastadapter-extensions-swipe:5.6.0] /home/harish/.gradle/caches/transforms-3/385a610900184d1bcb056eb7bc783e0e/transformed/fastadapter-extensions-swipe-5.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:fastadapter-extensions-swipe:5.6.0] /home/harish/.gradle/caches/transforms-3/385a610900184d1bcb056eb7bc783e0e/transformed/fastadapter-extensions-swipe-5.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:iconics-typeface-api:5.3.2] /home/harish/.gradle/caches/transforms-3/53f07d41c649b7765c150429bf3497de/transformed/iconics-typeface-api-5.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.mikepenz:iconics-typeface-api:5.3.2] /home/harish/.gradle/caches/transforms-3/53f07d41c649b7765c150429bf3497de/transformed/iconics-typeface-api-5.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [:plugins:liboqs-android] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/plugins/liboqs-android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:plugins:liboqs-android] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/plugins/liboqs-android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [net.openid:appauth:0.11.1] /home/harish/.gradle/caches/transforms-3/cc5875991f00f4e11fb07cb504f6b82e/transformed/appauth-0.11.1/AndroidManifest.xml:18:5-20:41
+MERGED from [net.openid:appauth:0.11.1] /home/harish/.gradle/caches/transforms-3/cc5875991f00f4e11fb07cb504f6b82e/transformed/appauth-0.11.1/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.material:material:1.5.0] /home/harish/.gradle/caches/transforms-3/b37a706728c48aa9ff360d935dba21cb/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] /home/harish/.gradle/caches/transforms-3/b37a706728c48aa9ff360d935dba21cb/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/harish/.gradle/caches/transforms-3/c2a766155c288cc9f3d4ac4bd06cd675/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/harish/.gradle/caches/transforms-3/c2a766155c288cc9f3d4ac4bd06cd675/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.splitwise:tokenautocomplete:4.0.0-beta01] /home/harish/.gradle/caches/transforms-3/6a3862a71fa152be3c1a496fb36fb392/transformed/tokenautocomplete-4.0.0-beta01/AndroidManifest.xml:7:5-9:41
+MERGED from [com.splitwise:tokenautocomplete:4.0.0-beta01] /home/harish/.gradle/caches/transforms-3/6a3862a71fa152be3c1a496fb36fb392/transformed/tokenautocomplete-4.0.0-beta01/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikepenz:fastadapter:5.6.0] /home/harish/.gradle/caches/transforms-3/2480897ed3c8c43dd9c3cd103f7109d9/transformed/fastadapter-5.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikepenz:fastadapter:5.6.0] /home/harish/.gradle/caches/transforms-3/2480897ed3c8c43dd9c3cd103f7109d9/transformed/fastadapter-5.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.biometric:biometric:1.1.0] /home/harish/.gradle/caches/transforms-3/761a34af967f4a85b0e267434191a5eb/transformed/biometric-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.biometric:biometric:1.1.0] /home/harish/.gradle/caches/transforms-3/761a34af967f4a85b0e267434191a5eb/transformed/biometric-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.takisoft.datetimepicker:datetimepicker:1.0.2] /home/harish/.gradle/caches/transforms-3/234bf9203b39eb216ad94c71ec79cf69/transformed/datetimepicker-1.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.takisoft.datetimepicker:datetimepicker:1.0.2] /home/harish/.gradle/caches/transforms-3/234bf9203b39eb216ad94c71ec79cf69/transformed/datetimepicker-1.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.takisoft.colorpicker:colorpicker:1.0.0] /home/harish/.gradle/caches/transforms-3/e5beba225cb32a901852d41d86e09c16/transformed/colorpicker-1.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.takisoft.colorpicker:colorpicker:1.0.0] /home/harish/.gradle/caches/transforms-3/e5beba225cb32a901852d41d86e09c16/transformed/colorpicker-1.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/harish/.gradle/caches/transforms-3/e776a1c2b39899d8086d04506e9d2247/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/harish/.gradle/caches/transforms-3/e776a1c2b39899d8086d04506e9d2247/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.13.1] /home/harish/.gradle/caches/transforms-3/03918333b3219f047a380425408ae6bd/transformed/glide-4.13.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.13.1] /home/harish/.gradle/caches/transforms-3/03918333b3219f047a380425408ae6bd/transformed/glide-4.13.1/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/harish/.gradle/caches/transforms-3/a43d0eb89f608e2156479926be60f4bd/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/harish/.gradle/caches/transforms-3/a43d0eb89f608e2156479926be60f4bd/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/harish/.gradle/caches/transforms-3/147301ccbbbb2ee4575122e038c29355/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/harish/.gradle/caches/transforms-3/147301ccbbbb2ee4575122e038c29355/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /home/harish/.gradle/caches/transforms-3/730a5217188375b1b357bebaaf131910/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /home/harish/.gradle/caches/transforms-3/730a5217188375b1b357bebaaf131910/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/harish/.gradle/caches/transforms-3/2f3185e269f4a5cdf73196155c020a1d/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /home/harish/.gradle/caches/transforms-3/2f3185e269f4a5cdf73196155c020a1d/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton.timber:timber:5.0.1] /home/harish/.gradle/caches/transforms-3/0a3cbf4c2cc03fb641897657ca781eb6/transformed/timber-5.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.timber:timber:5.0.1] /home/harish/.gradle/caches/transforms-3/0a3cbf4c2cc03fb641897657ca781eb6/transformed/timber-5.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.4.0] /home/harish/.gradle/caches/transforms-3/d91aa44a192413e98611cd96770f3071/transformed/activity-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0] /home/harish/.gradle/caches/transforms-3/d91aa44a192413e98611cd96770f3071/transformed/activity-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/harish/.gradle/caches/transforms-3/7fc034d902ddac08c2dc065a4cf02df8/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/harish/.gradle/caches/transforms-3/7fc034d902ddac08c2dc065a4cf02df8/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/harish/.gradle/caches/transforms-3/641df870807680e4da00b7d5cde98efc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/harish/.gradle/caches/transforms-3/641df870807680e4da00b7d5cde98efc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/harish/.gradle/caches/transforms-3/a798bc236927b9e7146594ecc14139e9/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/harish/.gradle/caches/transforms-3/a798bc236927b9e7146594ecc14139e9/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/harish/.gradle/caches/transforms-3/8eb726f23dcfa521fd50f1f38657f031/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/harish/.gradle/caches/transforms-3/8eb726f23dcfa521fd50f1f38657f031/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] /home/harish/.gradle/caches/transforms-3/a0869a95c2c3974bb5e21dc2b7a81a07/transformed/lifecycle-viewmodel-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.1] /home/harish/.gradle/caches/transforms-3/a0869a95c2c3974bb5e21dc2b7a81a07/transformed/lifecycle-viewmodel-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] /home/harish/.gradle/caches/transforms-3/eecec9a242523b663a2de6dd66402899/transformed/lifecycle-livedata-core-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.4.1] /home/harish/.gradle/caches/transforms-3/eecec9a242523b663a2de6dd66402899/transformed/lifecycle-livedata-core-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.flexbox:flexbox:3.0.0] /home/harish/.gradle/caches/transforms-3/aadd5c6b60ac1a68af32757b88f88690/transformed/flexbox-3.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.flexbox:flexbox:3.0.0] /home/harish/.gradle/caches/transforms-3/aadd5c6b60ac1a68af32757b88f88690/transformed/flexbox-3.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/harish/.gradle/caches/transforms-3/58b24a80dfb2995c99125dc21aacfccc/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/harish/.gradle/caches/transforms-3/58b24a80dfb2995c99125dc21aacfccc/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/harish/.gradle/caches/transforms-3/faa2e63689cbd076838ef50b0be869b2/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] /home/harish/.gradle/caches/transforms-3/faa2e63689cbd076838ef50b0be869b2/transformed/recyclerview-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/harish/.gradle/caches/transforms-3/ad5acf4e5139c0195685ac06b6d3d489/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/harish/.gradle/caches/transforms-3/ad5acf4e5139c0195685ac06b6d3d489/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /home/harish/.gradle/caches/transforms-3/767a0558080a0dd87e3fa68728d21dd0/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /home/harish/.gradle/caches/transforms-3/767a0558080a0dd87e3fa68728d21dd0/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/harish/.gradle/caches/transforms-3/c69baae0056ab7c6c80de90c676ec048/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/harish/.gradle/caches/transforms-3/c69baae0056ab7c6c80de90c676ec048/transformed/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [de.cketti.library.changelog:ckchangelog-core:2.0.0-beta02] /home/harish/.gradle/caches/transforms-3/2b15d06df33583694a25722bd1d4f0c6/transformed/ckchangelog-core-2.0.0-beta02/AndroidManifest.xml:6:5-44
+MERGED from [de.cketti.library.changelog:ckchangelog-core:2.0.0-beta02] /home/harish/.gradle/caches/transforms-3/2b15d06df33583694a25722bd1d4f0c6/transformed/ckchangelog-core-2.0.0-beta02/AndroidManifest.xml:6:5-44
+MERGED from [de.cketti.safecontentresolver:safe-content-resolver-v21:1.0.0] /home/harish/.gradle/caches/transforms-3/744371c8e496c4f38dd103de86435034/transformed/safe-content-resolver-v21-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [de.cketti.safecontentresolver:safe-content-resolver-v21:1.0.0] /home/harish/.gradle/caches/transforms-3/744371c8e496c4f38dd103de86435034/transformed/safe-content-resolver-v21-1.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.mikepenz:fontawesome-typeface:5.9.0.0-kotlin] /home/harish/.gradle/caches/transforms-3/9600fad9ab49070c205ac0979e3f7aa2/transformed/fontawesome-typeface-5.9.0.0-kotlin/AndroidManifest.xml:22:5-24:41
+MERGED from [com.mikepenz:fontawesome-typeface:5.9.0.0-kotlin] /home/harish/.gradle/caches/transforms-3/9600fad9ab49070c205ac0979e3f7aa2/transformed/fontawesome-typeface-5.9.0.0-kotlin/AndroidManifest.xml:22:5-24:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /home/harish/.gradle/caches/transforms-3/65f14a4aa0d51dd8e2347afd240ef75b/transformed/circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /home/harish/.gradle/caches/transforms-3/65f14a4aa0d51dd8e2347afd240ef75b/transformed/circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/harish/.gradle/caches/transforms-3/548b0463db001d1c9e234f1e92600614/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/harish/.gradle/caches/transforms-3/548b0463db001d1c9e234f1e92600614/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/harish/.gradle/caches/transforms-3/e4f16d1e948787eb3dfb614f4e5434f1/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/harish/.gradle/caches/transforms-3/e4f16d1e948787eb3dfb614f4e5434f1/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/harish/.gradle/caches/transforms-3/f2aa64d7e065f2b938fd9c0d6b35f93d/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/harish/.gradle/caches/transforms-3/f2aa64d7e065f2b938fd9c0d6b35f93d/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.browser:browser:1.3.0] /home/harish/.gradle/caches/transforms-3/dd6651630d0a85aba0e4a7d91dc553db/transformed/browser-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] /home/harish/.gradle/caches/transforms-3/dd6651630d0a85aba0e4a7d91dc553db/transformed/browser-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/harish/.gradle/caches/transforms-3/a99e1b1164cf6b95689975b97c694036/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/harish/.gradle/caches/transforms-3/a99e1b1164cf6b95689975b97c694036/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/harish/.gradle/caches/transforms-3/5b61f22cc5ff7285a05ee3dea339ff44/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/harish/.gradle/caches/transforms-3/5b61f22cc5ff7285a05ee3dea339ff44/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/harish/.gradle/caches/transforms-3/3db36b977b622f4116462c79cadfe990/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/harish/.gradle/caches/transforms-3/3db36b977b622f4116462c79cadfe990/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/harish/.gradle/caches/transforms-3/2902cec698169d5a6180898b73692322/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/harish/.gradle/caches/transforms-3/2902cec698169d5a6180898b73692322/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/harish/.gradle/caches/transforms-3/29aa4e802a51dc7acc7a503349d5990c/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/harish/.gradle/caches/transforms-3/29aa4e802a51dc7acc7a503349d5990c/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/harish/.gradle/caches/transforms-3/3eeacdd56b7bd40f588d2e7c75443e6a/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/harish/.gradle/caches/transforms-3/3eeacdd56b7bd40f588d2e7c75443e6a/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /home/harish/.gradle/caches/transforms-3/8bfc024171f739b29251d3cd3c8eb03c/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /home/harish/.gradle/caches/transforms-3/8bfc024171f739b29251d3cd3c8eb03c/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/harish/.gradle/caches/transforms-3/994e0162bb77094eef724a63125e9d31/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/harish/.gradle/caches/transforms-3/994e0162bb77094eef724a63125e9d31/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/harish/.gradle/caches/transforms-3/5fce6bfcf3142ba238fec3d3f9a761d7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/harish/.gradle/caches/transforms-3/5fce6bfcf3142ba238fec3d3f9a761d7/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/harish/.gradle/caches/transforms-3/e69d343380a6b237d4cd3b14aaa15a90/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/harish/.gradle/caches/transforms-3/e69d343380a6b237d4cd3b14aaa15a90/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.1] /home/harish/.gradle/caches/transforms-3/d97d2ec65f2db28181a4fb284db650e8/transformed/gifdecoder-4.13.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.13.1] /home/harish/.gradle/caches/transforms-3/d97d2ec65f2db28181a4fb284db650e8/transformed/gifdecoder-4.13.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /home/harish/.gradle/caches/transforms-3/308f9543667ffc312b9f92d92867977f/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /home/harish/.gradle/caches/transforms-3/308f9543667ffc312b9f92d92867977f/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/harish/.gradle/caches/transforms-3/1b5befeb1bfbba5589784b9b43dee023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/harish/.gradle/caches/transforms-3/1b5befeb1bfbba5589784b9b43dee023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.0] /home/harish/.gradle/caches/transforms-3/dafbce0848925807772256bcce06b594/transformed/startup-runtime-1.1.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.0] /home/harish/.gradle/caches/transforms-3/dafbce0848925807772256bcce06b594/transformed/startup-runtime-1.1.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/harish/.gradle/caches/transforms-3/a42fa0309fad091cdd320bafcf5b51c6/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/harish/.gradle/caches/transforms-3/a42fa0309fad091cdd320bafcf5b51c6/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/harish/.gradle/caches/transforms-3/bb73fd19a939c58fd610e7b4ff7ff304/transformed/lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/harish/.gradle/caches/transforms-3/bb73fd19a939c58fd610e7b4ff7ff304/transformed/lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.1] /home/harish/.gradle/caches/transforms-3/4aa49f5bd9e6bfd8eb6c895e47326d02/transformed/lifecycle-runtime-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.1] /home/harish/.gradle/caches/transforms-3/4aa49f5bd9e6bfd8eb6c895e47326d02/transformed/lifecycle-runtime-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] /home/harish/.gradle/caches/transforms-3/13ac22269a38c4ac64561d192e3ca6b7/transformed/lifecycle-livedata-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.1] /home/harish/.gradle/caches/transforms-3/13ac22269a38c4ac64561d192e3ca6b7/transformed/lifecycle-livedata-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.1] /home/harish/.gradle/caches/transforms-3/d9483200f46d2cb033ab9b4037a55a15/transformed/lifecycle-livedata-core-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.4.1] /home/harish/.gradle/caches/transforms-3/d9483200f46d2cb033ab9b4037a55a15/transformed/lifecycle-livedata-core-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/harish/.gradle/caches/transforms-3/7f6d844f981a748a488c51ceae70a47d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/harish/.gradle/caches/transforms-3/7f6d844f981a748a488c51ceae70a47d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/harish/.gradle/caches/transforms-3/9bc3987d25402755f5ab917c5d92c815/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/harish/.gradle/caches/transforms-3/9bc3987d25402755f5ab917c5d92c815/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /home/harish/.gradle/caches/transforms-3/e33897c096d15affc6a95a1d1a3f6be2/transformed/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /home/harish/.gradle/caches/transforms-3/e33897c096d15affc6a95a1d1a3f6be2/transformed/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/harish/.gradle/caches/transforms-3/86f2e37c07bf9b0e45a5f5ddb0af40b2/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/harish/.gradle/caches/transforms-3/86f2e37c07bf9b0e45a5f5ddb0af40b2/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/harish/.gradle/caches/transforms-3/d08fa1a94f381aaf5fb18d4649fbfba7/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/harish/.gradle/caches/transforms-3/d08fa1a94f381aaf5fb18d4649fbfba7/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/harish/.gradle/caches/transforms-3/2b4dae94aa2394cdb105455736278756/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/harish/.gradle/caches/transforms-3/2b4dae94aa2394cdb105455736278756/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/harish/.gradle/caches/transforms-3/f765598da1dbedb5d6494bf2fd8743f6/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/harish/.gradle/caches/transforms-3/f765598da1dbedb5d6494bf2fd8743f6/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/harish/.gradle/caches/transforms-3/3ff70ecdf71320d8a1068cc06aa17aeb/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/harish/.gradle/caches/transforms-3/3ff70ecdf71320d8a1068cc06aa17aeb/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/harish/.gradle/caches/transforms-3/4212d018beaea4c9f63c2c45cbf5d731/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/harish/.gradle/caches/transforms-3/4212d018beaea4c9f63c2c45cbf5d731/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml
+INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml
+		INJECTED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml
+intent-filter#action:name:app.k9mail.action.PUSH_INFO+category:name:android.intent.category.DEFAULT
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:289:13-293:29
+action#app.k9mail.action.PUSH_INFO
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:290:17-70
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:290:25-67
+meta-data#de.cketti.safecontentresolver.ALLOW_INTERNAL_ACCESS
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:365:13-367:40
+	android:value
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:367:17-37
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:366:17-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:390:13-392:73
+	android:resource
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:392:17-70
+	android:name
+		ADDED from /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/k9mail/src/main/AndroidManifest.xml:391:17-67
+queries
+ADDED from [:app:ui:legacy] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-51:15
+MERGED from [net.openid:appauth:0.11.1] /home/harish/.gradle/caches/transforms-3/cc5875991f00f4e11fb07cb504f6b82e/transformed/appauth-0.11.1/AndroidManifest.xml:24:5-32:15
+MERGED from [net.openid:appauth:0.11.1] /home/harish/.gradle/caches/transforms-3/cc5875991f00f4e11fb07cb504f6b82e/transformed/appauth-0.11.1/AndroidManifest.xml:24:5-32:15
+intent#action:name:android.intent.action.PICK+data:host:com.android.contacts+data:mimeType:*/*+data:scheme:content
+ADDED from [:app:ui:legacy] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:9-21:18
+action#android.intent.action.PICK
+ADDED from [:app:ui:legacy] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-65
+	android:name
+		ADDED from [:app:ui:legacy] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:21-62
+intent#action:name:android.intent.action.VIEW+data:mimeType:*/*+data:scheme:content
+ADDED from [:app:ui:legacy] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:9-30:18
+intent#action:name:org.openintents.openpgp.IOpenPgpService2
+ADDED from [:app:ui:legacy] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/build/intermediates/merged_manifest/debug/AndroidManifest.xml:31:9-35:18
+action#org.openintents.openpgp.IOpenPgpService2
+ADDED from [:app:ui:legacy] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:13-79
+	android:name
+		ADDED from [:app:ui:legacy] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/build/intermediates/merged_manifest/debug/AndroidManifest.xml:34:21-76
+intent#action:name:android.intent.action.VIEW+data:host:details+data:mimeType:*/*+data:scheme:market
+ADDED from [:app:ui:legacy] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/build/intermediates/merged_manifest/debug/AndroidManifest.xml:36:9-45:18
+intent#action:name:org.openintents.openpgp.IOpenPgpService
+ADDED from [:app:ui:legacy] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/build/intermediates/merged_manifest/debug/AndroidManifest.xml:46:9-50:18
+action#org.openintents.openpgp.IOpenPgpService
+ADDED from [:app:ui:legacy] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/build/intermediates/merged_manifest/debug/AndroidManifest.xml:49:13-78
+	android:name
+		ADDED from [:app:ui:legacy] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/legacy/build/intermediates/merged_manifest/debug/AndroidManifest.xml:49:21-75
+receiver#com.fsck.k9.ui.base.locale.LocaleBroadcastReceiver
+ADDED from [:app:ui:base] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/base/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-17:20
+	android:enabled
+		ADDED from [:app:ui:base] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/base/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-36
+	android:exported
+		ADDED from [:app:ui:base] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/base/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:app:ui:base] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/base/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-78
+intent-filter#action:name:android.intent.action.LOCALE_CHANGED
+ADDED from [:app:ui:base] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/base/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-16:29
+action#android.intent.action.LOCALE_CHANGED
+ADDED from [:app:ui:base] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/base/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:17-79
+	android:name
+		ADDED from [:app:ui:base] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/ui/base/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:25-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from [:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:5-16:38
+	android:minSdkVersion
+		ADDED from [:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:9-35
+	android:name
+		ADDED from [:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-66
+provider#androidx.startup.InitializationProvider
+ADDED from [:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:9-30:20
+MERGED from [com.mikepenz:iconics-core:5.3.2] /home/harish/.gradle/caches/transforms-3/41fe5edc84e4fc0b16b427aa9952cc1f/transformed/iconics-core-5.3.2/AndroidManifest.xml:26:9-40:20
+MERGED from [com.mikepenz:iconics-core:5.3.2] /home/harish/.gradle/caches/transforms-3/41fe5edc84e4fc0b16b427aa9952cc1f/transformed/iconics-core-5.3.2/AndroidManifest.xml:26:9-40:20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/harish/.gradle/caches/transforms-3/f2aa64d7e065f2b938fd9c0d6b35f93d/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/harish/.gradle/caches/transforms-3/f2aa64d7e065f2b938fd9c0d6b35f93d/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/harish/.gradle/caches/transforms-3/1b5befeb1bfbba5589784b9b43dee023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/harish/.gradle/caches/transforms-3/1b5befeb1bfbba5589784b9b43dee023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.0] /home/harish/.gradle/caches/transforms-3/dafbce0848925807772256bcce06b594/transformed/startup-runtime-1.1.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.0] /home/harish/.gradle/caches/transforms-3/dafbce0848925807772256bcce06b594/transformed/startup-runtime-1.1.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:13-31
+	android:authorities
+		ADDED from [:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-68
+	android:exported
+		ADDED from [:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from [:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-67
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-29:39
+REJECTED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:36:13-38:52
+	tools:node
+		ADDED from [:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:17-36
+	android:value
+		ADDED from [:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:17-49
+	android:name
+		ADDED from [:app:core] /home/harish/Downloads/Post-Quantum-K-9-Mail-main/app/core/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:17-68
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /home/harish/.gradle/caches/transforms-3/a54272ef705dbde942f5ea1f0777d8ff/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /home/harish/.gradle/caches/transforms-3/a54272ef705dbde942f5ea1f0777d8ff/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /home/harish/.gradle/caches/transforms-3/a54272ef705dbde942f5ea1f0777d8ff/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /home/harish/.gradle/caches/transforms-3/a54272ef705dbde942f5ea1f0777d8ff/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /home/harish/.gradle/caches/transforms-3/a54272ef705dbde942f5ea1f0777d8ff/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /home/harish/.gradle/caches/transforms-3/a54272ef705dbde942f5ea1f0777d8ff/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+meta-data#com.mikepenz.iconics.animation.SpinProcessor
+ADDED from [com.mikepenz:iconics-core:5.3.2] /home/harish/.gradle/caches/transforms-3/41fe5edc84e4fc0b16b427aa9952cc1f/transformed/iconics-core-5.3.2/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [com.mikepenz:iconics-core:5.3.2] /home/harish/.gradle/caches/transforms-3/41fe5edc84e4fc0b16b427aa9952cc1f/transformed/iconics-core-5.3.2/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [com.mikepenz:iconics-core:5.3.2] /home/harish/.gradle/caches/transforms-3/41fe5edc84e4fc0b16b427aa9952cc1f/transformed/iconics-core-5.3.2/AndroidManifest.xml:32:17-76
+meta-data#com.mikepenz.iconics.animation.BlinkAlphaProcessor
+ADDED from [com.mikepenz:iconics-core:5.3.2] /home/harish/.gradle/caches/transforms-3/41fe5edc84e4fc0b16b427aa9952cc1f/transformed/iconics-core-5.3.2/AndroidManifest.xml:34:13-36:52
+	android:value
+		ADDED from [com.mikepenz:iconics-core:5.3.2] /home/harish/.gradle/caches/transforms-3/41fe5edc84e4fc0b16b427aa9952cc1f/transformed/iconics-core-5.3.2/AndroidManifest.xml:36:17-49
+	android:name
+		ADDED from [com.mikepenz:iconics-core:5.3.2] /home/harish/.gradle/caches/transforms-3/41fe5edc84e4fc0b16b427aa9952cc1f/transformed/iconics-core-5.3.2/AndroidManifest.xml:35:17-82
+meta-data#com.mikepenz.iconics.animation.BlinkScaleProcessor
+ADDED from [com.mikepenz:iconics-core:5.3.2] /home/harish/.gradle/caches/transforms-3/41fe5edc84e4fc0b16b427aa9952cc1f/transformed/iconics-core-5.3.2/AndroidManifest.xml:37:13-39:52
+	android:value
+		ADDED from [com.mikepenz:iconics-core:5.3.2] /home/harish/.gradle/caches/transforms-3/41fe5edc84e4fc0b16b427aa9952cc1f/transformed/iconics-core-5.3.2/AndroidManifest.xml:39:17-49
+	android:name
+		ADDED from [com.mikepenz:iconics-core:5.3.2] /home/harish/.gradle/caches/transforms-3/41fe5edc84e4fc0b16b427aa9952cc1f/transformed/iconics-core-5.3.2/AndroidManifest.xml:38:17-82
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from [net.openid:appauth:0.11.1] /home/harish/.gradle/caches/transforms-3/cc5875991f00f4e11fb07cb504f6b82e/transformed/appauth-0.11.1/AndroidManifest.xml:25:9-31:18
+activity#net.openid.appauth.AuthorizationManagementActivity
+ADDED from [net.openid:appauth:0.11.1] /home/harish/.gradle/caches/transforms-3/cc5875991f00f4e11fb07cb504f6b82e/transformed/appauth-0.11.1/AndroidManifest.xml:35:9-40:77
+	android:launchMode
+		ADDED from [net.openid:appauth:0.11.1] /home/harish/.gradle/caches/transforms-3/cc5875991f00f4e11fb07cb504f6b82e/transformed/appauth-0.11.1/AndroidManifest.xml:39:13-44
+	android:exported
+		ADDED from [net.openid:appauth:0.11.1] /home/harish/.gradle/caches/transforms-3/cc5875991f00f4e11fb07cb504f6b82e/transformed/appauth-0.11.1/AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [net.openid:appauth:0.11.1] /home/harish/.gradle/caches/transforms-3/cc5875991f00f4e11fb07cb504f6b82e/transformed/appauth-0.11.1/AndroidManifest.xml:37:13-115
+	android:theme
+		ADDED from [net.openid:appauth:0.11.1] /home/harish/.gradle/caches/transforms-3/cc5875991f00f4e11fb07cb504f6b82e/transformed/appauth-0.11.1/AndroidManifest.xml:40:13-74
+	android:name
+		ADDED from [net.openid:appauth:0.11.1] /home/harish/.gradle/caches/transforms-3/cc5875991f00f4e11fb07cb504f6b82e/transformed/appauth-0.11.1/AndroidManifest.xml:36:13-78
+activity#net.openid.appauth.RedirectUriReceiverActivity
+ADDED from [net.openid:appauth:0.11.1] /home/harish/.gradle/caches/transforms-3/cc5875991f00f4e11fb07cb504f6b82e/transformed/appauth-0.11.1/AndroidManifest.xml:41:9-52:20
+	android:exported
+		ADDED from [net.openid:appauth:0.11.1] /home/harish/.gradle/caches/transforms-3/cc5875991f00f4e11fb07cb504f6b82e/transformed/appauth-0.11.1/AndroidManifest.xml:43:13-36
+	android:name
+		ADDED from [net.openid:appauth:0.11.1] /home/harish/.gradle/caches/transforms-3/cc5875991f00f4e11fb07cb504f6b82e/transformed/appauth-0.11.1/AndroidManifest.xml:42:13-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:${appAuthRedirectScheme}
+ADDED from [net.openid:appauth:0.11.1] /home/harish/.gradle/caches/transforms-3/cc5875991f00f4e11fb07cb504f6b82e/transformed/appauth-0.11.1/AndroidManifest.xml:44:13-51:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:com.fsck.k9.debug
+ADDED from [net.openid:appauth:0.11.1] /home/harish/.gradle/caches/transforms-3/cc5875991f00f4e11fb07cb504f6b82e/transformed/appauth-0.11.1/AndroidManifest.xml:44:13-51:29
+uses-permission#android.permission.USE_BIOMETRIC
+ADDED from [androidx.biometric:biometric:1.1.0] /home/harish/.gradle/caches/transforms-3/761a34af967f4a85b0e267434191a5eb/transformed/biometric-1.1.0/AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.biometric:biometric:1.1.0] /home/harish/.gradle/caches/transforms-3/761a34af967f4a85b0e267434191a5eb/transformed/biometric-1.1.0/AndroidManifest.xml:24:22-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from [androidx.biometric:biometric:1.1.0] /home/harish/.gradle/caches/transforms-3/761a34af967f4a85b0e267434191a5eb/transformed/biometric-1.1.0/AndroidManifest.xml:27:5-74
+	android:name
+		ADDED from [androidx.biometric:biometric:1.1.0] /home/harish/.gradle/caches/transforms-3/761a34af967f4a85b0e267434191a5eb/transformed/biometric-1.1.0/AndroidManifest.xml:27:22-71
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/harish/.gradle/caches/transforms-3/f2aa64d7e065f2b938fd9c0d6b35f93d/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/harish/.gradle/caches/transforms-3/f2aa64d7e065f2b938fd9c0d6b35f93d/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/harish/.gradle/caches/transforms-3/f2aa64d7e065f2b938fd9c0d6b35f93d/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:116:13-120:29
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.1] /home/harish/.gradle/caches/transforms-3/cc083002fcf904a60ad41064d453c75c/transformed/work-runtime-2.7.1/AndroidManifest.xml:140:25-85
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/harish/.gradle/caches/transforms-3/1b5befeb1bfbba5589784b9b43dee023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/harish/.gradle/caches/transforms-3/1b5befeb1bfbba5589784b9b43dee023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/harish/.gradle/caches/transforms-3/1b5befeb1bfbba5589784b9b43dee023/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] /home/harish/.gradle/caches/transforms-3/e33897c096d15affc6a95a1d1a3f6be2/transformed/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] /home/harish/.gradle/caches/transforms-3/e33897c096d15affc6a95a1d1a3f6be2/transformed/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] /home/harish/.gradle/caches/transforms-3/e33897c096d15affc6a95a1d1a3f6be2/transformed/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] /home/harish/.gradle/caches/transforms-3/e33897c096d15affc6a95a1d1a3f6be2/transformed/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
